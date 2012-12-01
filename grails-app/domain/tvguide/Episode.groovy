@@ -13,6 +13,10 @@ class Episode {
     Boolean isSpecial
     String tvrage
     
+    String toString() {
+        "${title}"
+    }
+    
     static belongsTo = [show:Show]
     
     static constraints = {

@@ -13,6 +13,10 @@ class Show {
     String network
     String country
     
+    String toString() {
+        "${title}"
+    }
+    
     static hasMany = [episodes:Episode]
 
     static constraints = {
