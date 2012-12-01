@@ -1,9 +1,9 @@
 package tvguide
 
-class Episode {
+class TVEpisode {
     
     DataStatus status
-    Show show
+    TVShow show
     Integer number
     Integer season
     Integer episode
@@ -18,7 +18,8 @@ class Episode {
         "${title}"
     }
     
-    static belongsTo = [show:Show]
+    static hasMany = [downloads:TVEpisodeDownload]
+    static belongsTo = [show:TVShow]
     
     static constraints = {
     }

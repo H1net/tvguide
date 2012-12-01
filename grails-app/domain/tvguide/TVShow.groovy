@@ -1,6 +1,6 @@
 package tvguide
 
-class Show {
+class TVShow {
     
     DataStatus status
     String title
@@ -8,7 +8,7 @@ class Show {
     String tvrage
     String startDate
     String endDate
-    String numbeOfEpisodes
+    String numberOfEpisodes
     String runTime
     String network
     String country
@@ -18,7 +18,7 @@ class Show {
         "${title}"
     }
     
-    static hasMany = [episodes:Episode]
+    static hasMany = [episodes:TVEpisode, watchers:TVShowWatcher]
 
     static constraints = {
     }
