@@ -12,6 +12,8 @@ class Show {
     String runTime
     String network
     String country
+    
+    static hasMany = [episodes:Episode]
 
     static constraints = {
     }
