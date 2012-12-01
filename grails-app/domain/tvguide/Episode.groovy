@@ -12,6 +12,7 @@ class Episode {
     String title
     Boolean isSpecial
     String tvrage
+    Boolean updateFlag
     
     String toString() {
         "${title}"

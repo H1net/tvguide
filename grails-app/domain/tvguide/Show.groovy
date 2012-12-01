@@ -12,6 +12,7 @@ class Show {
     String runTime
     String network
     String country
+    Boolean updateFlag
     
     String toString() {
         "${title}"
