@@ -6,13 +6,16 @@ class TVShowController {
     
     def importer() {
         String address = "http://epguides.com/common/allshows.txt"
-        def file = new FileOutputStream(address.tokenize("/")[-1])
+        String pathForData = System.properties['base.dir']+"/web-app/WEB-INF/epguides"
+        String pathOriginalShows = pathForData+"/allshows.txt"
+        String pathParsedShows = pathForData+"/allshowsParsed.txt"
+        def file = new FileOutputStream(pathOriginalShows)
         def out = new BufferedOutputStream(file)
         out << new URL(address).openStream()
         out.close()
-        File wf= new File("allshowsParsed.txt")
+        File wf= new File(pathParsedShows)
         wf.delete()
-        new File("allshows.txt").eachLine { line ->
+        new File(pathOriginalShows).eachLine { line ->
             if(line.length()>5) {
                 wf.append(line+"\r\n")
                 //render(line)
@@ -31,7 +34,7 @@ class TVShowController {
         List existingShowsList = []
         
         //new File(System.properties['base.dir']+"/dev/testData/allshowsEdited.txt").toCsvReader(['charset':'UTF-8', 'skipLines':1]).eachLine { tokens ->
-        new File("allshowsParsed.txt").toCsvReader(['charset':'UTF-8', 'skipLines':1]).eachLine { tokens ->
+        new File(pathParsedShows).toCsvReader(['charset':'UTF-8', 'skipLines':1]).eachLine { tokens ->
             def showTitle = tokens[0].toString() ?: null
             def showDirectory = tokens[1].toString() ?: null
             def showTVRage = tokens[2].toString() ?: null
