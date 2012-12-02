@@ -50,7 +50,7 @@ class TVShowController {
                     tvShow.updateFlag = true
                     tvShow.save(flush:true)
                     existingShowsList.add(tvShow)
-                    log.error tvShow.updateFlag
+                    //log.error tvShow.updateFlag
                     //log.error "already exists: " + tokens[1]
                 } else {
                     log.error "skipping: " + showTitle

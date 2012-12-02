@@ -21,6 +21,12 @@ class TVShow {
     }
     
     static hasMany = [episodes:TVEpisode, watchers:TVShowWatcher]
+    
+    static mapping = {
+        title index: 'title_idx'
+        directory index: 'directory_idx'
+        dateCreated index: 'dateCreated_idx'
+    }
 
     static constraints = {
         title()
