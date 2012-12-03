@@ -2,6 +2,8 @@ package tvguide
 
 import groovy.xml.*
 import grails.plugins.springsecurity.Secured
+import ajaxtools.*
+import grails.converters.JSON
 
 @Secured(['IS_AUTHENTICATED_FULLY'])
 class TVShowController {
@@ -17,6 +19,41 @@ class TVShowController {
             tvShowsWatched.add(tvShowWatcher.show.id)
         }
         [tvShows: TVShow.list(params), tvShowTotal: TVShow.count(), tvShowsWatched: tvShowsWatched]
+    }
+    
+    def jsonWatcherAdd(Integer id, Integer user_id) {
+        def response = new AJAXResponseContainer()
+        def tvShow = TVShow.get(id)
+        def user = User.get(user_id)
+        if(tvShow && user) {
+            def tvShowWatcher = new TVShowWatcher(show: tvShow, user: user).save(flush:true)
+            if(tvShowWatcher.id > 0) {
+                response.success()
+                response.addData(tvShowWatcher: tvShowWatcher)
+            } else {
+                response.addMessage("Save failed")
+            } 
+        } else {
+            response.addMessage("Invalid show or user")
+        }
+        render response as JSON
+    }
+    
+    def jsonWatcherRemove(Integer id, Integer user_id) {
+        def response = new AJAXResponseContainer()
+        def tvShow = TVShow.get(id)
+        def user = User.get(user_id)
+        if(tvShow && user) {
+            def tvShowWatcher = TVShowWatcher.findByShowAndUser(tvShow, user)
+            if(tvShowWatcher.delete()) {
+                response.success()
+            } else {
+                response.addMessage("Save failed")
+            } 
+        } else {
+            response.addMessage("Invalid show or user")
+        }
+        render response as JSON
     }
     
     @Secured(['ROLE_ADMIN'])

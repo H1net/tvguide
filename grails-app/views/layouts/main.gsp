@@ -15,6 +15,10 @@
   <r:require modules="application"/>
   <g:layoutHead/>
   <r:layoutResources />
+  <script>
+    URLRoot = "<g:resource dir='' file='' />";
+    userID = ${sec.loggedInUserInfo(field:"id")}
+  </script>
 </head>
 <body>
   <div id="topBar">

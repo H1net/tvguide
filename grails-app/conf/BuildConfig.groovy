@@ -62,7 +62,7 @@ grails.project.dependency.resolution = {
         
         compile ":csv:0.3.1"
         
-        runtime ":coffeescript-resources:0.2"
+        //runtime ":coffeescript-resources:0.2"
         //compile ":coffeescript-resources:0.3.2"
 
     }

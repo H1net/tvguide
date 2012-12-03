@@ -10,12 +10,8 @@
       <g:each in="${tvShows}" var="tvShow">
         <div class="tvShow">
           <h3 <g:if test="${tvShowsWatched.contains(tvShow.id)}">style="color:green"</g:if>>${fieldValue(bean: tvShow, field: "title")}</h3>
-          <g:if test="${tvShowsWatched.contains(tvShow.id)}">
-              <a class="tvShowRemoveWatch" id="tvShowRemoveWatch_${fieldValue(bean: tvShow, field: "id")}">Remove</a>
-          </g:if>
-          <g:else>
-            <a class="tvShowAddWatch" id="tvShowAddWatch_${fieldValue(bean: tvShow, field: "id")}">Add</a>
-          </g:else>
+          <a class="tvShowRemoveWatch" id="tvShowRemoveWatch_${fieldValue(bean: tvShow, field: "id")}" data-id="${fieldValue(bean: tvShow, field: "id")}" <g:if test="${!tvShowsWatched.contains(tvShow.id)}">style="display:none"</g:if>>Remove</a>
+          <a class="tvShowAddWatch" id="tvShowAddWatch_${fieldValue(bean: tvShow, field: "id")}" data-id="${fieldValue(bean: tvShow, field: "id")}" <g:if test="${tvShowsWatched.contains(tvShow.id)}">style="display:none"</g:if>>Add</a>
         </div>
       </g:each>
       <div class="pagination">

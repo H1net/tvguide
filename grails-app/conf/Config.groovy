@@ -96,8 +96,8 @@ grails.plugins.springsecurity.userLookup.authorityJoinClassName = 'tvguide.UserR
 grails.plugins.springsecurity.authority.className = 'tvguide.Role'
 grails.plugins.springsecurity.successHandler.defaultTargetUrl = '/home/home'
 
-coffeescript.modules = {
-    tvShowManage {
-        files "src/coffee/tvShowManage"
-    }
-}
+//coffeescript.modules = {
+//    tvShowManage {
+//        //files "src/coffee/tvShowManage"
+//    }
+//}
