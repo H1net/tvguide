@@ -5,12 +5,18 @@ import grails.plugins.springsecurity.Secured
 
 @Secured(['IS_AUTHENTICATED_FULLY'])
 class TVShowController {
-
+    def springSecurityService
+    
     def index() { }
     
     def list(Integer max) {
         params.max = Math.min(max ?: 100, 100)
-        [tvShows: TVShow.list(params), tvShowTotal: TVShow.count()]
+        
+        List tvShowsWatched = []
+        User.get(springSecurityService.principal.id).watching.each() { tvShowWatcher ->
+            tvShowsWatched.add(tvShowWatcher.show.id)
+        }
+        [tvShows: TVShow.list(params), tvShowTotal: TVShow.count(), tvShowsWatched: tvShowsWatched]
     }
     
     @Secured(['ROLE_ADMIN'])

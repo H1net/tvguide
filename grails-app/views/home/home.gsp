@@ -15,5 +15,8 @@
       <li><g:link controller="TVShow" action="list">Shows</g:link></li>
     </ul>
     <h2>Calendar</h2>
+    [show calender here TODO]
+    <h2>Your Shows</h2>
+    [print list of shows here TODO]
   </body>
 </html>
