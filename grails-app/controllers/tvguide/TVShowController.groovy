@@ -1,5 +1,7 @@
 package tvguide
 
+import groovy.xml.*
+
 class TVShowController {
 
     def index() { }
@@ -66,4 +68,5 @@ class TVShowController {
        }
        [newShowsList: newShowsList, existingShowsList: existingShowsList]
     }
+   
 }

@@ -2,7 +2,7 @@ package tvguide
 
 class TVEpisode {
     
-    DataStatus status
+    DataStatus status = DataStatus.ACTIVE
     TVShow show
     Integer number
     Integer season
@@ -22,5 +22,13 @@ class TVEpisode {
     static belongsTo = [show:TVShow]
     
     static constraints = {
+    }
+    
+    static updateFlagReset() {
+        executeUpdate("update TVEpisode tve set tve.updateFlag=:updateFlag", [updateFlag: false])
+    }
+    
+    static deleteNotUpdatedByShow(show) {
+        executeUpdate("DELETE FROM TVEpisode tve WHERE tve.updateFlag=:updateFlag AND show=:tvShow", [updateFlag: false, tvShow: show])
     }
 }

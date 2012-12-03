@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+
+<Show>
+<name>The Simpsons</name>
+<totalseasons>24</totalseasons>
+<Episodelist>
+
+<Season no="1">
+<episode><epnum>1</epnum><seasonnum>01</seasonnum><prodnum>7G08</prodnum><airdate>1989-12-17</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206468</link><title>Simpsons Roasting on an Open Fire</title></episode>
+<episode><epnum>2</epnum><seasonnum>02</seasonnum><prodnum>7G02</prodnum><airdate>1990-01-14</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206469</link><title>Bart the Genius</title></episode>
+<episode><epnum>3</epnum><seasonnum>03</seasonnum><prodnum>7G03</prodnum><airdate>1990-01-21</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206470</link><title>Homer's Odyssey</title></episode>
+<episode><epnum>4</epnum><seasonnum>04</seasonnum><prodnum>7G04</prodnum><airdate>1990-01-28</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206471</link><title>There's No Disgrace Like Home</title></episode>
+<episode><epnum>5</epnum><seasonnum>05</seasonnum><prodnum>7G05</prodnum><airdate>1990-02-04</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206472</link><title>Bart the General</title></episode>
+<episode><epnum>6</epnum><seasonnum>06</seasonnum><prodnum>7G06</prodnum><airdate>1990-02-11</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206473</link><title>Moaning Lisa</title></episode>
+<episode><epnum>7</epnum><seasonnum>07</seasonnum><prodnum>7G09</prodnum><airdate>1990-02-18</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206474</link><title>The Call of the Simpsons</title></episode>
+<episode><epnum>8</epnum><seasonnum>08</seasonnum><prodnum>7G07</prodnum><airdate>1990-02-25</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206475</link><title>The Telltale Head</title></episode>
+<episode><epnum>9</epnum><seasonnum>09</seasonnum><prodnum>7G11</prodnum><airdate>1990-03-18</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206476</link><title>Life on the Fast Lane</title></episode>
+<episode><epnum>10</epnum><seasonnum>10</seasonnum><prodnum>7G10</prodnum><airdate>1990-03-25</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206477</link><title>Homer's Night Out</title></episode>
+<episode><epnum>11</epnum><seasonnum>11</seasonnum><prodnum>7G13</prodnum><airdate>1990-04-15</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206478</link><title>The Crepes of Wrath</title></episode>
+<episode><epnum>12</epnum><seasonnum>12</seasonnum><prodnum>7G12</prodnum><airdate>1990-04-29</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206479</link><title>Krusty Gets Busted</title></episode>
+<episode><epnum>13</epnum><seasonnum>13</seasonnum><prodnum>7G01</prodnum><airdate>1990-05-13</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206480</link><title>Some Enchanted Evening</title></episode>
+</Season>
+
+<Season no="2">
+<episode><epnum>14</epnum><seasonnum>01</seasonnum><prodnum>7F03</prodnum><airdate>1990-10-11</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206481</link><title>Bart Gets an F</title></episode>
+<episode><epnum>15</epnum><seasonnum>02</seasonnum><prodnum>7F02</prodnum><airdate>1990-10-18</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206482</link><title>Simpson and Delilah</title></episode>
+<episode><epnum>16</epnum><seasonnum>03</seasonnum><prodnum>7F04</prodnum><airdate>1990-10-24</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206483</link><title>Treehouse of Horror</title></episode>
+<episode><epnum>17</epnum><seasonnum>04</seasonnum><prodnum>7F01</prodnum><airdate>1990-11-01</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206484</link><title>Two Cars in Every Garage and Three Eyes on Every Fish</title></episode>
+<episode><epnum>18</epnum><seasonnum>05</seasonnum><prodnum>7F05</prodnum><airdate>1990-11-08</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206485</link><title>Dancin' Homer</title></episode>
+<episode><epnum>19</epnum><seasonnum>06</seasonnum><prodnum>7F08</prodnum><airdate>1990-11-15</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206486</link><title>Dead Putting Society</title></episode>
+<episode><epnum>20</epnum><seasonnum>07</seasonnum><prodnum>7F07</prodnum><airdate>1990-11-22</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206487</link><title>Bart vs. Thanksgiving</title></episode>
+<episode><epnum>21</epnum><seasonnum>08</seasonnum><prodnum>7F06</prodnum><airdate>1990-12-06</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206488</link><title>Bart the Daredevil</title></episode>
+<episode><epnum>22</epnum><seasonnum>09</seasonnum><prodnum>7F09</prodnum><airdate>1990-12-20</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206489</link><title>Itchy &amp;amp; Scratchy &amp;amp; Marge</title></episode>
+<episode><epnum>23</epnum><seasonnum>10</seasonnum><prodnum>7F10</prodnum><airdate>1991-01-10</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206490</link><title>Bart Gets Hit by a Car</title></episode>
+<episode><epnum>24</epnum><seasonnum>11</seasonnum><prodnum>7F11</prodnum><airdate>1991-01-24</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206491</link><title>One Fish, Two Fish, Blowfish, Blue Fish</title></episode>
+<episode><epnum>25</epnum><seasonnum>12</seasonnum><prodnum>7F12</prodnum><airdate>1991-01-31</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206492</link><title>The Way We Was</title></episode>
+<episode><epnum>26</epnum><seasonnum>13</seasonnum><prodnum>7F13</prodnum><airdate>1991-02-07</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206493</link><title>Homer vs. Lisa and the Eighth Commandment</title></episode>
+<episode><epnum>27</epnum><seasonnum>14</seasonnum><prodnum>7F15</prodnum><airdate>1991-02-14</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206494</link><title>Principal Charming</title></episode>
+<episode><epnum>28</epnum><seasonnum>15</seasonnum><prodnum>7F16</prodnum><airdate>1991-02-21</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206495</link><title>Oh Brother, Where Art Thou?</title></episode>
+<episode><epnum>29</epnum><seasonnum>16</seasonnum><prodnum>7F14</prodnum><airdate>1991-03-07</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206496</link><title>Bart's Dog Gets an F</title></episode>
+<episode><epnum>30</epnum><seasonnum>17</seasonnum><prodnum>7F17</prodnum><airdate>1991-03-28</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206497</link><title>Old Money</title></episode>
+<episode><epnum>31</epnum><seasonnum>18</seasonnum><prodnum>7F18</prodnum><airdate>1991-04-11</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206498</link><title>Brush With Greatness</title></episode>
+<episode><epnum>32</epnum><seasonnum>19</seasonnum><prodnum>7F19</prodnum><airdate>1991-04-25</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206499</link><title>Lisa's Substitute</title></episode>
+<episode><epnum>33</epnum><seasonnum>20</seasonnum><prodnum>7F20</prodnum><airdate>1991-05-02</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206500</link><title>The War of the Simpsons</title></episode>
+<episode><epnum>34</epnum><seasonnum>21</seasonnum><prodnum>7F21</prodnum><airdate>1991-05-09</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206501</link><title>Three Men and a Comic Book</title></episode>
+<episode><epnum>35</epnum><seasonnum>22</seasonnum><prodnum>7F22</prodnum><airdate>1991-07-11</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206502</link><title>Blood Feud</title></episode>
+</Season>
+
+<Season no="3">
+<episode><epnum>36</epnum><seasonnum>01</seasonnum><prodnum>7F24</prodnum><airdate>1991-09-19</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206503</link><title>Stark Raving Dad</title></episode>
+<episode><epnum>37</epnum><seasonnum>02</seasonnum><prodnum>8F01</prodnum><airdate>1991-09-26</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206504</link><title>Mr. Lisa Goes to Washington</title></episode>
+<episode><epnum>38</epnum><seasonnum>03</seasonnum><prodnum>7F23</prodnum><airdate>1991-10-03</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206505</link><title>When Flanders Failed</title></episode>
+<episode><epnum>39</epnum><seasonnum>04</seasonnum><prodnum>8F03</prodnum><airdate>1991-10-10</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206506</link><title>Bart the Murderer</title></episode>
+<episode><epnum>40</epnum><seasonnum>05</seasonnum><prodnum>8F04</prodnum><airdate>1991-10-17</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206507</link><title>Homer Defined</title></episode>
+<episode><epnum>41</epnum><seasonnum>06</seasonnum><prodnum>8F05</prodnum><airdate>1991-10-24</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206508</link><title>Like Father Like Clown</title></episode>
+<episode><epnum>42</epnum><seasonnum>07</seasonnum><prodnum>8F02</prodnum><airdate>1991-10-31</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206509</link><title>Treehouse of Horror II</title></episode>
+<episode><epnum>43</epnum><seasonnum>08</seasonnum><prodnum>8F06</prodnum><airdate>1991-11-07</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206510</link><title>Lisa's Pony</title></episode>
+<episode><epnum>44</epnum><seasonnum>09</seasonnum><prodnum>8F07</prodnum><airdate>1991-11-14</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206511</link><title>Saturdays of Thunder</title></episode>
+<episode><epnum>45</epnum><seasonnum>10</seasonnum><prodnum>8F08</prodnum><airdate>1991-11-21</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206512</link><title>Flaming Moe's</title></episode>
+<episode><epnum>46</epnum><seasonnum>11</seasonnum><prodnum>8F09</prodnum><airdate>1991-12-05</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206513</link><title>Burns Verkaufen der Kraftwerk</title></episode>
+<episode><epnum>47</epnum><seasonnum>12</seasonnum><prodnum>8F10</prodnum><airdate>1991-12-26</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206514</link><title>I Married Marge</title></episode>
+<episode><epnum>48</epnum><seasonnum>13</seasonnum><prodnum>8F11</prodnum><airdate>1992-01-09</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206515</link><title>Radio Bart</title></episode>
+<episode><epnum>49</epnum><seasonnum>14</seasonnum><prodnum>8F12</prodnum><airdate>1992-01-23</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206516</link><title>Lisa the Greek</title></episode>
+<episode><epnum>50</epnum><seasonnum>15</seasonnum><prodnum>8F14</prodnum><airdate>1992-02-06</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206517</link><title>Homer Alone</title></episode>
+<episode><epnum>51</epnum><seasonnum>16</seasonnum><prodnum>8F16</prodnum><airdate>1992-02-13</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206518</link><title>Bart the Lover</title></episode>
+<episode><epnum>52</epnum><seasonnum>17</seasonnum><prodnum>8F13</prodnum><airdate>1992-02-20</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206519</link><title>Homer at the Bat</title></episode>
+<episode><epnum>53</epnum><seasonnum>18</seasonnum><prodnum>8F15</prodnum><airdate>1992-02-27</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206520</link><title>Separate Vocations</title></episode>
+<episode><epnum>54</epnum><seasonnum>19</seasonnum><prodnum>8F17</prodnum><airdate>1992-03-12</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206521</link><title>Dog of Death</title></episode>
+<episode><epnum>55</epnum><seasonnum>20</seasonnum><prodnum>8F19</prodnum><airdate>1992-03-26</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206522</link><title>Colonel Homer</title></episode>
+<episode><epnum>56</epnum><seasonnum>21</seasonnum><prodnum>8F20</prodnum><airdate>1992-04-09</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206523</link><title>Black Widower</title></episode>
+<episode><epnum>57</epnum><seasonnum>22</seasonnum><prodnum>8F21</prodnum><airdate>1992-04-23</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206524</link><title>The Otto Show</title></episode>
+<episode><epnum>58</epnum><seasonnum>23</seasonnum><prodnum>8F22</prodnum><airdate>1992-05-07</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206525</link><title>Bart's Friend Falls in Love</title></episode>
+<episode><epnum>59</epnum><seasonnum>24</seasonnum><prodnum>8F23</prodnum><airdate>1992-08-27</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206526</link><title>Brother, Can You Spare Two Dimes?</title></episode>
+</Season>
+
+<Season no="4">
+<episode><epnum>60</epnum><seasonnum>01</seasonnum><prodnum>8F24</prodnum><airdate>1992-09-24</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206527</link><title>Kamp Krusty</title></episode>
+<episode><epnum>61</epnum><seasonnum>02</seasonnum><prodnum>8F18</prodnum><airdate>1992-10-01</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206528</link><title>A Streetcar Named Marge</title></episode>
+<episode><epnum>62</epnum><seasonnum>03</seasonnum><prodnum>9F01</prodnum><airdate>1992-10-08</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206529</link><title>Homer the Heretic</title></episode>
+<episode><epnum>63</epnum><seasonnum>04</seasonnum><prodnum>9F02</prodnum><airdate>1992-10-15</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206530</link><title>Lisa the Beauty Queen</title></episode>
+<episode><epnum>64</epnum><seasonnum>05</seasonnum><prodnum>9F04</prodnum><airdate>1992-10-29</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206531</link><title>Treehouse of Horror III</title></episode>
+<episode><epnum>65</epnum><seasonnum>06</seasonnum><prodnum>9F03</prodnum><airdate>1992-11-03</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206532</link><title>Itchy &amp;amp; Scratchy: The Movie</title></episode>
+<episode><epnum>66</epnum><seasonnum>07</seasonnum><prodnum>9F05</prodnum><airdate>1992-11-05</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206533</link><title>Marge Gets a Job</title></episode>
+<episode><epnum>67</epnum><seasonnum>08</seasonnum><prodnum>9F06</prodnum><airdate>1992-11-12</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206534</link><title>The New Kid on the Block</title></episode>
+<episode><epnum>68</epnum><seasonnum>09</seasonnum><prodnum>9F07</prodnum><airdate>1992-11-19</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206535</link><title>Mr. Plow</title></episode>
+<episode><epnum>69</epnum><seasonnum>10</seasonnum><prodnum>9F08</prodnum><airdate>1992-12-03</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206536</link><title>Lisa's First Word</title></episode>
+<episode><epnum>70</epnum><seasonnum>11</seasonnum><prodnum>9F09</prodnum><airdate>1992-12-17</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206537</link><title>Homer's Triple Bypass</title></episode>
+<episode><epnum>71</epnum><seasonnum>12</seasonnum><prodnum>9F10</prodnum><airdate>1993-01-14</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206538</link><title>Marge vs. the Monorail</title></episode>
+<episode><epnum>72</epnum><seasonnum>13</seasonnum><prodnum>9F11</prodnum><airdate>1993-01-21</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206539</link><title>Selma's Choice</title></episode>
+<episode><epnum>73</epnum><seasonnum>14</seasonnum><prodnum>9F12</prodnum><airdate>1993-02-04</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206540</link><title>Brother From the Same Planet</title></episode>
+<episode><epnum>74</epnum><seasonnum>15</seasonnum><prodnum>9F13</prodnum><airdate>1993-02-11</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206541</link><title>I Love Lisa</title></episode>
+<episode><epnum>75</epnum><seasonnum>16</seasonnum><prodnum>9F14</prodnum><airdate>1993-02-18</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206542</link><title>Duffless</title></episode>
+<episode><epnum>76</epnum><seasonnum>17</seasonnum><prodnum>9F15</prodnum><airdate>1993-03-11</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206543</link><title>Last Exit to Springfield</title></episode>
+<episode><epnum>77</epnum><seasonnum>18</seasonnum><prodnum>9F17</prodnum><airdate>1993-04-01</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206544</link><title>So It's Come to This: A Simpsons Clip Show</title></episode>
+<episode><epnum>78</epnum><seasonnum>19</seasonnum><prodnum>9F16</prodnum><airdate>1993-04-15</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206545</link><title>The Front</title></episode>
+<episode><epnum>79</epnum><seasonnum>20</seasonnum><prodnum>9F18</prodnum><airdate>1993-04-29</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206546</link><title>Whacking Day</title></episode>
+<episode><epnum>80</epnum><seasonnum>21</seasonnum><prodnum>9F20</prodnum><airdate>1993-05-06</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206547</link><title>Marge in Chains</title></episode>
+<episode><epnum>81</epnum><seasonnum>22</seasonnum><prodnum>9F19</prodnum><airdate>1993-05-13</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206548</link><title>Krusty Gets Kancelled</title></episode>
+</Season>
+
+<Season no="5">
+<episode><epnum>82</epnum><seasonnum>01</seasonnum><prodnum>9F21</prodnum><airdate>1993-09-30</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206549</link><title>Homer's Barbershop Quartet</title></episode>
+<episode><epnum>83</epnum><seasonnum>02</seasonnum><prodnum>9F22</prodnum><airdate>1993-10-07</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206550</link><title>Cape Feare</title></episode>
+<episode><epnum>84</epnum><seasonnum>03</seasonnum><prodnum>1F02</prodnum><airdate>1993-10-14</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206551</link><title>Homer Goes to College</title></episode>
+<episode><epnum>85</epnum><seasonnum>04</seasonnum><prodnum>1F01</prodnum><airdate>1993-10-21</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206552</link><title>Rosebud</title></episode>
+<episode><epnum>86</epnum><seasonnum>05</seasonnum><prodnum>1F04</prodnum><airdate>1993-10-28</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206553</link><title>Treehouse of Horror IV</title></episode>
+<episode><epnum>87</epnum><seasonnum>06</seasonnum><prodnum>1F03</prodnum><airdate>1993-11-04</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206554</link><title>Marge on the Lam</title></episode>
+<episode><epnum>88</epnum><seasonnum>07</seasonnum><prodnum>1F05</prodnum><airdate>1993-11-11</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206555</link><title>Bart's Inner Child</title></episode>
+<episode><epnum>89</epnum><seasonnum>08</seasonnum><prodnum>1F06</prodnum><airdate>1993-11-18</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206556</link><title>Boy-Scoutz 'n the Hood</title></episode>
+<episode><epnum>90</epnum><seasonnum>09</seasonnum><prodnum>1F07</prodnum><airdate>1993-12-09</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206557</link><title>The Last Temptation of Homer</title></episode>
+<episode><epnum>91</epnum><seasonnum>10</seasonnum><prodnum>1F08</prodnum><airdate>1993-12-16</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206558</link><title>$pringfield (Or, How I Learned to Stop Worrying and Love Legalized Gambling)</title></episode>
+<episode><epnum>92</epnum><seasonnum>11</seasonnum><prodnum>1F09</prodnum><airdate>1994-01-06</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206559</link><title>Homer the Vigilante</title></episode>
+<episode><epnum>93</epnum><seasonnum>12</seasonnum><prodnum>1F11</prodnum><airdate>1994-02-03</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206560</link><title>Bart Gets Famous</title></episode>
+<episode><epnum>94</epnum><seasonnum>13</seasonnum><prodnum>1F10</prodnum><airdate>1994-02-10</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206561</link><title>Homer and Apu</title></episode>
+<episode><epnum>95</epnum><seasonnum>14</seasonnum><prodnum>1F12</prodnum><airdate>1994-02-17</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206562</link><title>Lisa vs. Malibu Stacy</title></episode>
+<episode><epnum>96</epnum><seasonnum>15</seasonnum><prodnum>1F13</prodnum><airdate>1994-02-24</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206563</link><title>Deep Space Homer</title></episode>
+<episode><epnum>97</epnum><seasonnum>16</seasonnum><prodnum>1F14</prodnum><airdate>1994-03-17</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206564</link><title>Homer Loves Flanders</title></episode>
+<episode><epnum>98</epnum><seasonnum>17</seasonnum><prodnum>1F15</prodnum><airdate>1994-03-31</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206565</link><title>Bart Gets an Elephant</title></episode>
+<episode><epnum>99</epnum><seasonnum>18</seasonnum><prodnum>1F16</prodnum><airdate>1994-04-14</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206566</link><title>Burns' Heir</title></episode>
+<episode><epnum>100</epnum><seasonnum>19</seasonnum><prodnum>1F18</prodnum><airdate>1994-04-28</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206567</link><title>Sweet Seymour Skinner's Baadasssss Song</title></episode>
+<episode><epnum>101</epnum><seasonnum>20</seasonnum><prodnum>1F19</prodnum><airdate>1994-05-05</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206568</link><title>The Boy Who Knew Too Much</title></episode>
+<episode><epnum>102</epnum><seasonnum>21</seasonnum><prodnum>1F21</prodnum><airdate>1994-05-12</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206569</link><title>Lady Bouvier's Lover</title></episode>
+<episode><epnum>103</epnum><seasonnum>22</seasonnum><prodnum>1F20</prodnum><airdate>1994-05-19</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206570</link><title>Secrets of a Successful Marriage</title></episode>
+</Season>
+
+<Season no="6">
+<episode><epnum>104</epnum><seasonnum>01</seasonnum><prodnum>1F22</prodnum><airdate>1994-09-04</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206571</link><title>Bart of Darkness</title></episode>
+<episode><epnum>105</epnum><seasonnum>02</seasonnum><prodnum>1F17</prodnum><airdate>1994-09-11</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206572</link><title>Lisa's Rival</title></episode>
+<episode><epnum>106</epnum><seasonnum>03</seasonnum><prodnum>2F33</prodnum><airdate>1994-09-25</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206573</link><title>Another Simpsons Clip Show</title></episode>
+<episode><epnum>107</epnum><seasonnum>04</seasonnum><prodnum>2F01</prodnum><airdate>1994-10-02</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206574</link><title>Itchy &amp; Scratchy Land</title></episode>
+<episode><epnum>108</epnum><seasonnum>05</seasonnum><prodnum>2F02</prodnum><airdate>1994-10-09</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206575</link><title>Sideshow Bob Roberts</title></episode>
+<episode><epnum>109</epnum><seasonnum>06</seasonnum><prodnum>2F03</prodnum><airdate>1994-10-30</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206576</link><title>Treehouse of Horror V</title></episode>
+<episode><epnum>110</epnum><seasonnum>07</seasonnum><prodnum>2F04</prodnum><airdate>1994-11-06</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206577</link><title>Bart's Girlfriend</title></episode>
+<episode><epnum>111</epnum><seasonnum>08</seasonnum><prodnum>2F05</prodnum><airdate>1994-11-13</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206578</link><title>Lisa on Ice</title></episode>
+<episode><epnum>112</epnum><seasonnum>09</seasonnum><prodnum>2F06</prodnum><airdate>1994-11-27</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206579</link><title>Homer Badman</title></episode>
+<episode><epnum>113</epnum><seasonnum>10</seasonnum><prodnum>2F07</prodnum><airdate>1994-12-04</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206580</link><title>Grandpa vs. Sexual Inadequacy</title></episode>
+<episode><epnum>114</epnum><seasonnum>11</seasonnum><prodnum>2F08</prodnum><airdate>1994-12-18</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206581</link><title>Fear of Flying</title></episode>
+<episode><epnum>115</epnum><seasonnum>12</seasonnum><prodnum>2F09</prodnum><airdate>1995-01-08</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206582</link><title>Homer the Great</title></episode>
+<episode><epnum>116</epnum><seasonnum>13</seasonnum><prodnum>2F10</prodnum><airdate>1995-01-22</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206583</link><title>And Maggie Makes Three</title></episode>
+<episode><epnum>117</epnum><seasonnum>14</seasonnum><prodnum>2F11</prodnum><airdate>1995-02-05</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206584</link><title>Bart's Comet</title></episode>
+<episode><epnum>118</epnum><seasonnum>15</seasonnum><prodnum>2F12</prodnum><airdate>1995-02-12</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206585</link><title>Homie the Clown</title></episode>
+<episode><epnum>119</epnum><seasonnum>16</seasonnum><prodnum>2F13</prodnum><airdate>1995-02-19</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206586</link><title>Bart vs. Australia</title></episode>
+<episode><epnum>120</epnum><seasonnum>17</seasonnum><prodnum>2F14</prodnum><airdate>1995-02-26</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206587</link><title>Homer vs. Patty and Selma</title></episode>
+<episode><epnum>121</epnum><seasonnum>18</seasonnum><prodnum>2F31</prodnum><airdate>1995-03-05</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206588</link><title>A Star is Burns</title></episode>
+<episode><epnum>122</epnum><seasonnum>19</seasonnum><prodnum>2F15</prodnum><airdate>1995-03-19</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206589</link><title>Lisa's Wedding</title></episode>
+<episode><epnum>123</epnum><seasonnum>20</seasonnum><prodnum>2F18</prodnum><airdate>1995-04-09</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206590</link><title>Two Dozen and One Greyhounds</title></episode>
+<episode><epnum>124</epnum><seasonnum>21</seasonnum><prodnum>2F19</prodnum><airdate>1995-04-16</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206591</link><title>The PTA Disbands</title></episode>
+<episode><epnum>125</epnum><seasonnum>22</seasonnum><prodnum>2F32</prodnum><airdate>1995-04-30</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206592</link><title>Round Springfield</title></episode>
+<episode><epnum>126</epnum><seasonnum>23</seasonnum><prodnum>2F21</prodnum><airdate>1995-05-07</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206593</link><title>The Springfield Connection</title></episode>
+<episode><epnum>127</epnum><seasonnum>24</seasonnum><prodnum>2F22</prodnum><airdate>1995-05-14</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206594</link><title>Lemon of Troy</title></episode>
+<episode><epnum>128</epnum><seasonnum>25</seasonnum><prodnum>2F16</prodnum><airdate>1995-05-21</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206595</link><title>Who Shot Mr. Burns? (1)</title></episode>
+</Season>
+
+<Season no="7">
+<episode><epnum>129</epnum><seasonnum>01</seasonnum><prodnum>2F20</prodnum><airdate>1995-09-17</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206597</link><title>Who Shot Mr. Burns? (2)</title></episode>
+<episode><epnum>130</epnum><seasonnum>02</seasonnum><prodnum>2F17</prodnum><airdate>1995-09-24</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206598</link><title>Radioactive Man</title></episode>
+<episode><epnum>131</epnum><seasonnum>03</seasonnum><prodnum>3F01</prodnum><airdate>1995-10-01</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206599</link><title>Home Sweet Homediddly-Dum-Doodily</title></episode>
+<episode><epnum>132</epnum><seasonnum>04</seasonnum><prodnum>3F02</prodnum><airdate>1995-10-08</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206600</link><title>Bart Sells His Soul</title></episode>
+<episode><epnum>133</epnum><seasonnum>05</seasonnum><prodnum>3F03</prodnum><airdate>1995-10-15</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206601</link><title>Lisa the Vegetarian</title></episode>
+<episode><epnum>134</epnum><seasonnum>06</seasonnum><prodnum>3F04</prodnum><airdate>1995-10-29</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206602</link><title>Treehouse of Horror VI</title></episode>
+<episode><epnum>135</epnum><seasonnum>07</seasonnum><prodnum>3F05</prodnum><airdate>1995-11-05</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206603</link><title>King-Size Homer</title></episode>
+<episode><epnum>136</epnum><seasonnum>08</seasonnum><prodnum>3F06</prodnum><airdate>1995-11-19</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206604</link><title>Mother Simpson</title></episode>
+<episode><epnum>137</epnum><seasonnum>09</seasonnum><prodnum>3F08</prodnum><airdate>1995-11-26</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206605</link><title>Sideshow Bob's Last Gleaming</title></episode>
+<episode><epnum>138</epnum><seasonnum>10</seasonnum><prodnum>3F31</prodnum><airdate>1995-12-03</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206606</link><title>The Simpsons 138th Episode Spectacular</title></episode>
+<episode><epnum>139</epnum><seasonnum>11</seasonnum><prodnum>3F07</prodnum><airdate>1995-12-17</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206607</link><title>Marge Be Not Proud</title></episode>
+<episode><epnum>140</epnum><seasonnum>12</seasonnum><prodnum>3F10</prodnum><airdate>1996-01-07</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206608</link><title>Team Homer</title></episode>
+<episode><epnum>141</epnum><seasonnum>13</seasonnum><prodnum>3F09</prodnum><airdate>1996-01-14</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206609</link><title>Two Bad Neighbors</title></episode>
+<episode><epnum>142</epnum><seasonnum>14</seasonnum><prodnum>3F11</prodnum><airdate>1996-02-04</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206610</link><title>Scenes From the Class Struggle in Springfield</title></episode>
+<episode><epnum>143</epnum><seasonnum>15</seasonnum><prodnum>3F12</prodnum><airdate>1996-02-11</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206611</link><title>Bart the Fink</title></episode>
+<episode><epnum>144</epnum><seasonnum>16</seasonnum><prodnum>3F13</prodnum><airdate>1996-02-18</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206612</link><title>Lisa the Iconoclast</title></episode>
+<episode><epnum>145</epnum><seasonnum>17</seasonnum><prodnum>3F14</prodnum><airdate>1996-02-25</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206613</link><title>Homer the Smithers</title></episode>
+<episode><epnum>146</epnum><seasonnum>18</seasonnum><prodnum>3F16</prodnum><airdate>1996-03-17</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206614</link><title>The Day the Violence Died</title></episode>
+<episode><epnum>147</epnum><seasonnum>19</seasonnum><prodnum>3F15</prodnum><airdate>1996-03-24</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206615</link><title>A Fish Called Selma</title></episode>
+<episode><epnum>148</epnum><seasonnum>20</seasonnum><prodnum>3F17</prodnum><airdate>1996-03-31</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206616</link><title>Bart on the Road</title></episode>
+<episode><epnum>149</epnum><seasonnum>21</seasonnum><prodnum>3F18</prodnum><airdate>1996-04-14</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206617</link><title>22 Short Films About Springfield</title></episode>
+<episode><epnum>150</epnum><seasonnum>22</seasonnum><prodnum>3F19</prodnum><airdate>1996-04-28</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206618</link><title>Raging Abe Simpson and His Grumbling Grandson in &quot;The Curse of the Flying Hellfish&quot;</title></episode>
+<episode><epnum>151</epnum><seasonnum>23</seasonnum><prodnum>3F20</prodnum><airdate>1996-05-05</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206619</link><title>Much Apu About Nothing</title></episode>
+<episode><epnum>152</epnum><seasonnum>24</seasonnum><prodnum>3F21</prodnum><airdate>1996-05-19</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206620</link><title>Homerpalooza</title></episode>
+<episode><epnum>153</epnum><seasonnum>25</seasonnum><prodnum>3F22</prodnum><airdate>1996-05-19</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206621</link><title>Summer of 4 ft. 2</title></episode>
+</Season>
+
+<Season no="8">
+<episode><epnum>154</epnum><seasonnum>01</seasonnum><prodnum>4F02</prodnum><airdate>1996-10-27</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206622</link><title>Treehouse of Horror VII</title></episode>
+<episode><epnum>155</epnum><seasonnum>02</seasonnum><prodnum>3F23</prodnum><airdate>1996-11-03</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206623</link><title>You Only Move Twice</title></episode>
+<episode><epnum>156</epnum><seasonnum>03</seasonnum><prodnum>4F03</prodnum><airdate>1996-11-10</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206624</link><title>The Homer They Fall</title></episode>
+<episode><epnum>157</epnum><seasonnum>04</seasonnum><prodnum>4F05</prodnum><airdate>1996-11-17</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206625</link><title>Burns, Baby Burns</title></episode>
+<episode><epnum>158</epnum><seasonnum>05</seasonnum><prodnum>4F06</prodnum><airdate>1996-11-24</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206626</link><title>Bart After Dark</title></episode>
+<episode><epnum>159</epnum><seasonnum>06</seasonnum><prodnum>4F04</prodnum><airdate>1996-12-01</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206627</link><title>A Milhouse Divided</title></episode>
+<episode><epnum>160</epnum><seasonnum>07</seasonnum><prodnum>4F01</prodnum><airdate>1996-12-15</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206628</link><title>Lisa's Date With Density</title></episode>
+<episode><epnum>161</epnum><seasonnum>08</seasonnum><prodnum>4F07</prodnum><airdate>1996-12-29</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206629</link><title>Hurricane Neddy</title></episode>
+<episode><epnum>162</epnum><seasonnum>09</seasonnum><prodnum>3F24</prodnum><airdate>1997-01-05</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206630</link><title>El Viaje de Nuestro Jomer (The Mysterious Voyage of Homer)</title></episode>
+<episode><epnum>163</epnum><seasonnum>10</seasonnum><prodnum>3G01</prodnum><airdate>1997-01-12</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206631</link><title>The Springfield Files</title></episode>
+<episode><epnum>164</epnum><seasonnum>11</seasonnum><prodnum>4F08</prodnum><airdate>1997-01-19</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206632</link><title>The Twisted World of Marge Simpson</title></episode>
+<episode><epnum>165</epnum><seasonnum>12</seasonnum><prodnum>4F10</prodnum><airdate>1997-02-02</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206633</link><title>Mountain of Madness</title></episode>
+<episode><epnum>166</epnum><seasonnum>13</seasonnum><prodnum>3G03</prodnum><airdate>1997-02-07</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206634</link><title>Simpsoncalifragilisticexpiala (Annoyed Grunt) cious</title></episode>
+<episode><epnum>167</epnum><seasonnum>14</seasonnum><prodnum>4F12</prodnum><airdate>1997-02-09</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206635</link><title>The Itchy &amp; Scratchy &amp; Poochie Show</title></episode>
+<episode><epnum>168</epnum><seasonnum>15</seasonnum><prodnum>4F11</prodnum><airdate>1997-02-16</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206636</link><title>Homer's Phobia</title></episode>
+<episode><epnum>169</epnum><seasonnum>16</seasonnum><prodnum>4F14</prodnum><airdate>1997-02-23</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206637</link><title>Brother From Another Series</title></episode>
+<episode><epnum>170</epnum><seasonnum>17</seasonnum><prodnum>4F13</prodnum><airdate>1997-03-02</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206638</link><title>My Sister, My Sitter</title></episode>
+<episode><epnum>171</epnum><seasonnum>18</seasonnum><prodnum>4F15</prodnum><airdate>1997-03-16</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206639</link><title>Homer vs. the Eighteenth Amendment</title></episode>
+<episode><epnum>172</epnum><seasonnum>19</seasonnum><prodnum>4F09</prodnum><airdate>1997-04-06</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206640</link><title>Grade School Confidential</title></episode>
+<episode><epnum>173</epnum><seasonnum>20</seasonnum><prodnum>4F16</prodnum><airdate>1997-04-13</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206641</link><title>The Canine Mutiny</title></episode>
+<episode><epnum>174</epnum><seasonnum>21</seasonnum><prodnum>4F17</prodnum><airdate>1997-04-20</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206642</link><title>The Old Man and Lisa</title></episode>
+<episode><epnum>175</epnum><seasonnum>22</seasonnum><prodnum>4F18</prodnum><airdate>1997-04-27</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206643</link><title>In Marge We Trust</title></episode>
+<episode><epnum>176</epnum><seasonnum>23</seasonnum><prodnum>4F19</prodnum><airdate>1997-05-04</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206644</link><title>Homer's Enemy</title></episode>
+<episode><epnum>177</epnum><seasonnum>24</seasonnum><prodnum>4F20</prodnum><airdate>1997-05-11</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206645</link><title>The Simpsons Spin-Off Showcase</title></episode>
+<episode><epnum>178</epnum><seasonnum>25</seasonnum><prodnum>4F21</prodnum><airdate>1997-05-18</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206646</link><title>The Secret War of Lisa Simpson</title></episode>
+</Season>
+
+<Season no="9">
+<episode><epnum>179</epnum><seasonnum>01</seasonnum><prodnum>4F22</prodnum><airdate>1997-09-21</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206647</link><title>The City of New York vs. Homer Simpson</title></episode>
+<episode><epnum>180</epnum><seasonnum>02</seasonnum><prodnum>4F23</prodnum><airdate>1997-09-28</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206648</link><title>The Principal and the Pauper</title></episode>
+<episode><epnum>181</epnum><seasonnum>03</seasonnum><prodnum>3G02</prodnum><airdate>1997-10-19</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206649</link><title>Lisa's Sax</title></episode>
+<episode><epnum>182</epnum><seasonnum>04</seasonnum><prodnum>5F02</prodnum><airdate>1997-10-26</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206650</link><title>Treehouse of Horror VIII</title></episode>
+<episode><epnum>183</epnum><seasonnum>05</seasonnum><prodnum>5F01</prodnum><airdate>1997-11-02</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206651</link><title>The Cartridge Family</title></episode>
+<episode><epnum>184</epnum><seasonnum>06</seasonnum><prodnum>5F03</prodnum><airdate>1997-11-09</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206652</link><title>Bart Star</title></episode>
+<episode><epnum>185</epnum><seasonnum>07</seasonnum><prodnum>5F04</prodnum><airdate>1997-11-16</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206653</link><title>The Two Mrs. Nahasapeemapetilons</title></episode>
+<episode><epnum>186</epnum><seasonnum>08</seasonnum><prodnum>5F05</prodnum><airdate>1997-11-23</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206654</link><title>Lisa the Skeptic</title></episode>
+<episode><epnum>187</epnum><seasonnum>09</seasonnum><prodnum>5F06</prodnum><airdate>1997-12-07</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206655</link><title>Realty Bites</title></episode>
+<episode><epnum>188</epnum><seasonnum>10</seasonnum><prodnum>5F07</prodnum><airdate>1997-12-21</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206656</link><title>Miracle on Evergreen Terrace</title></episode>
+<episode><epnum>189</epnum><seasonnum>11</seasonnum><prodnum>5F24</prodnum><airdate>1998-01-04</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206657</link><title>All Singing, All Dancing</title></episode>
+<episode><epnum>190</epnum><seasonnum>12</seasonnum><prodnum>5F08</prodnum><airdate>1998-01-11</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206658</link><title>Bart Carny</title></episode>
+<episode><epnum>191</epnum><seasonnum>13</seasonnum><prodnum>5F23</prodnum><airdate>1998-02-08</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206659</link><title>The Joy of Sect</title></episode>
+<episode><epnum>192</epnum><seasonnum>14</seasonnum><prodnum>5F11</prodnum><airdate>1998-02-15</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206660</link><title>Das Bus</title></episode>
+<episode><epnum>193</epnum><seasonnum>15</seasonnum><prodnum>5F10</prodnum><airdate>1998-02-22</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206661</link><title>The Last Temptation of Krusty</title></episode>
+<episode><epnum>194</epnum><seasonnum>16</seasonnum><prodnum>5F12</prodnum><airdate>1998-03-01</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206662</link><title>Dumbbell Indemnity</title></episode>
+<episode><epnum>195</epnum><seasonnum>17</seasonnum><prodnum>4F24</prodnum><airdate>1998-03-08</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206663</link><title>Lisa the Simpson</title></episode>
+<episode><epnum>196</epnum><seasonnum>18</seasonnum><prodnum>5F13</prodnum><airdate>1998-03-22</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206664</link><title>This Little Wiggy</title></episode>
+<episode><epnum>197</epnum><seasonnum>19</seasonnum><prodnum>3G04</prodnum><airdate>1998-03-29</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206665</link><title>Simpson Tide</title></episode>
+<episode><epnum>198</epnum><seasonnum>20</seasonnum><prodnum>5F14</prodnum><airdate>1998-04-05</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206666</link><title>The Trouble With Trillions</title></episode>
+<episode><epnum>199</epnum><seasonnum>21</seasonnum><prodnum>5F15</prodnum><airdate>1998-04-19</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206667</link><title>Girly Edition</title></episode>
+<episode><epnum>200</epnum><seasonnum>22</seasonnum><prodnum>5F09</prodnum><airdate>1998-04-26</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206668</link><title>Trash of the Titans</title></episode>
+<episode><epnum>201</epnum><seasonnum>23</seasonnum><prodnum>5F16</prodnum><airdate>1998-05-03</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206669</link><title>King of the Hill</title></episode>
+<episode><epnum>202</epnum><seasonnum>24</seasonnum><prodnum>5F17</prodnum><airdate>1998-05-10</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206670</link><title>Lost Our Lisa</title></episode>
+<episode><epnum>203</epnum><seasonnum>25</seasonnum><prodnum>5F18</prodnum><airdate>1998-05-17</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206671</link><title>Natural Born Kissers</title></episode>
+</Season>
+
+<Season no="10">
+<episode><epnum>204</epnum><seasonnum>01</seasonnum><prodnum>5F20</prodnum><airdate>1998-08-23</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206672</link><title>Lard of the Dance</title></episode>
+<episode><epnum>205</epnum><seasonnum>02</seasonnum><prodnum>5F21</prodnum><airdate>1998-09-20</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206673</link><title>The Wizard of Evergreen Terrace</title></episode>
+<episode><epnum>206</epnum><seasonnum>03</seasonnum><prodnum>5F22</prodnum><airdate>1998-09-27</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206674</link><title>Bart the Mother</title></episode>
+<episode><epnum>207</epnum><seasonnum>04</seasonnum><prodnum>AABF01</prodnum><airdate>1998-10-25</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206675</link><title>Treehouse of Horror IX</title></episode>
+<episode><epnum>208</epnum><seasonnum>05</seasonnum><prodnum>5F19</prodnum><airdate>1998-11-08</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206676</link><title>When You Dish Upon a Star</title></episode>
+<episode><epnum>209</epnum><seasonnum>06</seasonnum><prodnum>AABF02</prodnum><airdate>1998-11-15</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206677</link><title>D'Oh-in' in the Wind</title></episode>
+<episode><epnum>210</epnum><seasonnum>07</seasonnum><prodnum>AABF03</prodnum><airdate>1998-11-22</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206678</link><title>Lisa Gets an &quot;A&quot;</title></episode>
+<episode><epnum>211</epnum><seasonnum>08</seasonnum><prodnum>AABF04</prodnum><airdate>1998-12-06</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206679</link><title>Homer Simpson in: &quot;Kidney Trouble&quot;</title></episode>
+<episode><epnum>212</epnum><seasonnum>09</seasonnum><prodnum>AABF05</prodnum><airdate>1998-12-20</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206680</link><title>Mayored to the Mob</title></episode>
+<episode><epnum>213</epnum><seasonnum>10</seasonnum><prodnum>AABF06</prodnum><airdate>1999-01-10</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206681</link><title>Viva Ned Flanders</title></episode>
+<episode><epnum>214</epnum><seasonnum>11</seasonnum><prodnum>AABF07</prodnum><airdate>1999-01-17</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206682</link><title>Wild Barts Can't Be Broken</title></episode>
+<episode><epnum>215</epnum><seasonnum>12</seasonnum><prodnum>AABF08</prodnum><airdate>1999-01-31</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206683</link><title>Sunday, Cruddy Sunday</title></episode>
+<episode><epnum>216</epnum><seasonnum>13</seasonnum><prodnum>AABF09</prodnum><airdate>1999-02-07</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206684</link><title>Homer to the Max</title></episode>
+<episode><epnum>217</epnum><seasonnum>14</seasonnum><prodnum>AABF11</prodnum><airdate>1999-02-14</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206685</link><title>I'm With Cupid</title></episode>
+<episode><epnum>218</epnum><seasonnum>15</seasonnum><prodnum>AABF10</prodnum><airdate>1999-02-21</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206686</link><title>Marge Simpson in: &quot;Screaming Yellow Honkers&quot;</title></episode>
+<episode><epnum>219</epnum><seasonnum>16</seasonnum><prodnum>AABF12</prodnum><airdate>1999-02-28</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206687</link><title>Make Room For Lisa</title></episode>
+<episode><epnum>220</epnum><seasonnum>17</seasonnum><prodnum>AABF13</prodnum><airdate>1999-03-28</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206688</link><title>Maximum Homerdrive</title></episode>
+<episode><epnum>221</epnum><seasonnum>18</seasonnum><prodnum>AABF14</prodnum><airdate>1999-04-04</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206689</link><title>Simpsons Bible Stories</title></episode>
+<episode><epnum>222</epnum><seasonnum>19</seasonnum><prodnum>AABF15</prodnum><airdate>1999-04-11</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206690</link><title>Mom and Pop Art</title></episode>
+<episode><epnum>223</epnum><seasonnum>20</seasonnum><prodnum>AABF16</prodnum><airdate>1999-04-25</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206691</link><title>The Old Man and the &quot;C&quot; Student</title></episode>
+<episode><epnum>224</epnum><seasonnum>21</seasonnum><prodnum>AABF17</prodnum><airdate>1999-05-02</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206692</link><title>Monty Can't Buy Me Love</title></episode>
+<episode><epnum>225</epnum><seasonnum>22</seasonnum><prodnum>AABF18</prodnum><airdate>1999-05-09</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206693</link><title>They Saved Lisa's Brain</title></episode>
+<episode><epnum>226</epnum><seasonnum>23</seasonnum><prodnum>AABF20</prodnum><airdate>1999-05-16</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206694</link><title>30 Minutes Over Tokyo</title></episode>
+</Season>
+
+<Season no="11">
+<episode><epnum>227</epnum><seasonnum>01</seasonnum><prodnum>AABF23</prodnum><airdate>1999-09-26</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206695</link><title>Beyond Blunderdome</title></episode>
+<episode><epnum>228</epnum><seasonnum>02</seasonnum><prodnum>AABF22</prodnum><airdate>1999-10-03</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206696</link><title>Brother's Little Helper</title></episode>
+<episode><epnum>229</epnum><seasonnum>03</seasonnum><prodnum>AABF21</prodnum><airdate>1999-10-24</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206697</link><title>Guess Who's Coming to Criticize Dinner</title></episode>
+<episode><epnum>230</epnum><seasonnum>04</seasonnum><prodnum>BABF01</prodnum><airdate>1999-10-31</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206698</link><title>Treehouse of Horror X</title></episode>
+<episode><epnum>231</epnum><seasonnum>05</seasonnum><prodnum>AABF19</prodnum><airdate>1999-11-07</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206699</link><title>E-I-E-I-(Annoyed Grunt)</title></episode>
+<episode><epnum>232</epnum><seasonnum>06</seasonnum><prodnum>BABF02</prodnum><airdate>1999-11-14</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206700</link><title>Hello Gutter, Hello Fadder</title></episode>
+<episode><epnum>233</epnum><seasonnum>07</seasonnum><prodnum>BABF03</prodnum><airdate>1999-11-21</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206701</link><title>Eight Misbehavin</title></episode>
+<episode><epnum>234</epnum><seasonnum>08</seasonnum><prodnum>BABF05</prodnum><airdate>1999-11-28</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206702</link><title>Take My Wife, Sleaze</title></episode>
+<episode><epnum>235</epnum><seasonnum>09</seasonnum><prodnum>BABF07</prodnum><airdate>1999-12-19</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206703</link><title>Grift of the Magi</title></episode>
+<episode><epnum>236</epnum><seasonnum>10</seasonnum><prodnum>BABF04</prodnum><airdate>2000-01-09</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206704</link><title>Little Big Mom</title></episode>
+<episode><epnum>237</epnum><seasonnum>11</seasonnum><prodnum>BABF06</prodnum><airdate>2000-01-16</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206705</link><title>Faith Off</title></episode>
+<episode><epnum>238</epnum><seasonnum>12</seasonnum><prodnum>BABF08</prodnum><airdate>2000-01-23</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206706</link><title>The Mansion Family</title></episode>
+<episode><epnum>239</epnum><seasonnum>13</seasonnum><prodnum>BABF09</prodnum><airdate>2000-02-06</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206707</link><title>Saddlesore Galactica</title></episode>
+<episode><epnum>240</epnum><seasonnum>14</seasonnum><prodnum>BABF10</prodnum><airdate>2000-02-13</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206708</link><title>Alone Again Natura-Diddily</title></episode>
+<episode><epnum>241</epnum><seasonnum>15</seasonnum><prodnum>BABF11</prodnum><airdate>2000-02-20</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206709</link><title>Missionary Impossible</title></episode>
+<episode><epnum>242</epnum><seasonnum>16</seasonnum><prodnum>BABF12</prodnum><airdate>2000-02-27</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206710</link><title>Pygmoelian</title></episode>
+<episode><epnum>243</epnum><seasonnum>17</seasonnum><prodnum>BABF13</prodnum><airdate>2000-03-19</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206711</link><title>Bart to the Future</title></episode>
+<episode><epnum>244</epnum><seasonnum>18</seasonnum><prodnum>BABF14</prodnum><airdate>2000-04-09</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206712</link><title>Days of Wine and D'Ohses</title></episode>
+<episode><epnum>245</epnum><seasonnum>19</seasonnum><prodnum>BABF16</prodnum><airdate>2000-04-30</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206713</link><title>Kill the Alligator and Run</title></episode>
+<episode><epnum>246</epnum><seasonnum>20</seasonnum><prodnum>BABF15</prodnum><airdate>2000-05-07</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206714</link><title>Last Tap Dance in Springfield</title></episode>
+<episode><epnum>247</epnum><seasonnum>21</seasonnum><prodnum>BABF18</prodnum><airdate>2000-05-14</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206715</link><title>It's a Mad, Mad, Mad, Mad Marge</title></episode>
+<episode><epnum>248</epnum><seasonnum>22</seasonnum><prodnum>BABF19</prodnum><airdate>2000-05-21</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206716</link><title>Behind the Laughter</title></episode>
+</Season>
+
+<Season no="12">
+<episode><epnum>249</epnum><seasonnum>01</seasonnum><prodnum>BABF21</prodnum><airdate>2000-11-01</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206717</link><title>Treehouse of Horror XI</title></episode>
+<episode><epnum>250</epnum><seasonnum>02</seasonnum><prodnum>BABF20</prodnum><airdate>2000-11-05</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206718</link><title>A Tale of Two Springfields</title></episode>
+<episode><epnum>251</epnum><seasonnum>03</seasonnum><prodnum>BABF17</prodnum><airdate>2000-11-12</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206719</link><title>Insane Clown Poppy</title></episode>
+<episode><epnum>252</epnum><seasonnum>04</seasonnum><prodnum>CABF01</prodnum><airdate>2000-11-19</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206720</link><title>Lisa the Treehugger</title></episode>
+<episode><epnum>253</epnum><seasonnum>05</seasonnum><prodnum>CABF04</prodnum><airdate>2000-11-26</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206721</link><title>Homer vs. Dignity</title></episode>
+<episode><epnum>254</epnum><seasonnum>06</seasonnum><prodnum>CABF02</prodnum><airdate>2000-12-03</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206722</link><title>The Computer Wore Menace Shoes</title></episode>
+<episode><epnum>255</epnum><seasonnum>07</seasonnum><prodnum>CABF03</prodnum><airdate>2000-12-10</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206723</link><title>The Great Money Caper</title></episode>
+<episode><epnum>256</epnum><seasonnum>08</seasonnum><prodnum>CABF06</prodnum><airdate>2000-12-17</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206724</link><title>Skinner's Sense of Snow</title></episode>
+<episode><epnum>257</epnum><seasonnum>09</seasonnum><prodnum>BABF22</prodnum><airdate>2001-01-07</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206725</link><title>HOMR</title></episode>
+<episode><epnum>258</epnum><seasonnum>10</seasonnum><prodnum>CABF05</prodnum><airdate>2001-01-14</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206726</link><title>Pokeymom</title></episode>
+<episode><epnum>259</epnum><seasonnum>11</seasonnum><prodnum>CABF08</prodnum><airdate>2001-02-04</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206727</link><title>Worst Episode Ever</title></episode>
+<episode><epnum>260</epnum><seasonnum>12</seasonnum><prodnum>CABF07</prodnum><airdate>2001-02-11</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206728</link><title>Tennis the Menace</title></episode>
+<episode><epnum>261</epnum><seasonnum>13</seasonnum><prodnum>CABF10</prodnum><airdate>2001-02-18</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206729</link><title>Day of the Jackanapes</title></episode>
+<episode><epnum>262</epnum><seasonnum>14</seasonnum><prodnum>CABF12</prodnum><airdate>2001-02-25</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206730</link><title>New Kids on the Blecch</title></episode>
+<episode><epnum>263</epnum><seasonnum>15</seasonnum><prodnum>CABF09</prodnum><airdate>2001-03-04</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206731</link><title>Hungry Hungry Homer</title></episode>
+<episode><epnum>264</epnum><seasonnum>16</seasonnum><prodnum>CABF11</prodnum><airdate>2001-03-11</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206732</link><title>Bye Bye Nerdy</title></episode>
+<episode><epnum>265</epnum><seasonnum>17</seasonnum><prodnum>CABF13</prodnum><airdate>2001-04-01</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206733</link><title>Simpsons Safari</title></episode>
+<episode><epnum>266</epnum><seasonnum>18</seasonnum><prodnum>CABF14</prodnum><airdate>2001-04-29</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206734</link><title>Trilogy of Error</title></episode>
+<episode><epnum>267</epnum><seasonnum>19</seasonnum><prodnum>CABF15</prodnum><airdate>2001-05-06</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206735</link><title>I'm Goin' to Praise Land</title></episode>
+<episode><epnum>268</epnum><seasonnum>20</seasonnum><prodnum>CABF16</prodnum><airdate>2001-05-13</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206736</link><title>Children of a Lesser Clod</title></episode>
+<episode><epnum>269</epnum><seasonnum>21</seasonnum><prodnum>CABF17</prodnum><airdate>2001-05-20</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206737</link><title>Simpsons Tall Tales</title></episode>
+</Season>
+
+<Season no="13">
+<episode><epnum>270</epnum><seasonnum>01</seasonnum><prodnum>CABF19</prodnum><airdate>2001-11-06</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206738</link><title>Treehouse of Horror XII</title></episode>
+<episode><epnum>271</epnum><seasonnum>02</seasonnum><prodnum>CABF22</prodnum><airdate>2001-11-11</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206739</link><title>The Parent Rap</title></episode>
+<episode><epnum>272</epnum><seasonnum>03</seasonnum><prodnum>CABF20</prodnum><airdate>2001-11-18</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206740</link><title>Homer the Moe</title></episode>
+<episode><epnum>273</epnum><seasonnum>04</seasonnum><prodnum>CABF18</prodnum><airdate>2001-12-02</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206741</link><title>Hunka Hunka Burns in Love</title></episode>
+<episode><epnum>274</epnum><seasonnum>05</seasonnum><prodnum>CABF21</prodnum><airdate>2001-12-09</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206742</link><title>The Blunder Years</title></episode>
+<episode><epnum>275</epnum><seasonnum>06</seasonnum><prodnum>DABF02</prodnum><airdate>2001-12-16</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206743</link><title>She of Little Faith</title></episode>
+<episode><epnum>276</epnum><seasonnum>07</seasonnum><prodnum>DABF01</prodnum><airdate>2002-01-06</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206744</link><title>Brawl in the Family</title></episode>
+<episode><epnum>277</epnum><seasonnum>08</seasonnum><prodnum>DABF03</prodnum><airdate>2002-01-20</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206745</link><title>Sweets and Sour Marge</title></episode>
+<episode><epnum>278</epnum><seasonnum>09</seasonnum><prodnum>DABF05</prodnum><airdate>2002-01-27</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206746</link><title>Jaws Wired Shut</title></episode>
+<episode><epnum>279</epnum><seasonnum>10</seasonnum><prodnum>DABF04</prodnum><airdate>2002-02-10</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206747</link><title>Half-Decent Proposal</title></episode>
+<episode><epnum>280</epnum><seasonnum>11</seasonnum><prodnum>DABF06</prodnum><airdate>2002-02-17</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206748</link><title>The Bart Wants What It Wants</title></episode>
+<episode><epnum>281</epnum><seasonnum>12</seasonnum><prodnum>DABF07</prodnum><airdate>2002-02-24</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206749</link><title>The Lastest Gun in the West</title></episode>
+<episode><epnum>282</epnum><seasonnum>13</seasonnum><prodnum>DABF09</prodnum><airdate>2002-03-10</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206750</link><title>The Old Man and the Key</title></episode>
+<episode><epnum>283</epnum><seasonnum>14</seasonnum><prodnum>DABF08</prodnum><airdate>2002-03-17</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206751</link><title>Tales From the Public Domain</title></episode>
+<episode><epnum>284</epnum><seasonnum>15</seasonnum><prodnum>DABF10</prodnum><airdate>2002-03-31</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206752</link><title>Blame it on Lisa</title></episode>
+<episode><epnum>285</epnum><seasonnum>16</seasonnum><prodnum>DABF11</prodnum><airdate>2002-04-07</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206753</link><title>Weekend at Burnsies</title></episode>
+<episode><epnum>286</epnum><seasonnum>17</seasonnum><prodnum>DABF12</prodnum><airdate>2002-04-21</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206754</link><title>Gump Roast</title></episode>
+<episode><epnum>287</epnum><seasonnum>18</seasonnum><prodnum>DABF13</prodnum><airdate>2002-04-28</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206755</link><title>I am Furious Yellow</title></episode>
+<episode><epnum>288</epnum><seasonnum>19</seasonnum><prodnum>DABF14</prodnum><airdate>2002-05-05</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206756</link><title>The Sweetest Apu</title></episode>
+<episode><epnum>289</epnum><seasonnum>20</seasonnum><prodnum>DABF15</prodnum><airdate>2002-05-12</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206757</link><title>Little Girl in the Big Ten</title></episode>
+<episode><epnum>290</epnum><seasonnum>21</seasonnum><prodnum>DABF16</prodnum><airdate>2002-05-19</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206758</link><title>Frying Game</title></episode>
+<episode><epnum>291</epnum><seasonnum>22</seasonnum><prodnum>DABF17</prodnum><airdate>2002-05-22</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206759</link><title>Papa's Got a Brand New Badge</title></episode>
+</Season>
+
+<Season no="14">
+<episode><epnum>292</epnum><seasonnum>01</seasonnum><prodnum>DABF19</prodnum><airdate>2002-11-03</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206760</link><title>Treehouse of Horror XIII</title></episode>
+<episode><epnum>293</epnum><seasonnum>02</seasonnum><prodnum>DABF22</prodnum><airdate>2002-11-10</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206761</link><title>How I Spent My Strummer Vacation</title></episode>
+<episode><epnum>294</epnum><seasonnum>03</seasonnum><prodnum>DABF20</prodnum><airdate>2002-11-17</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206762</link><title>Bart vs. Lisa vs. 3rd Grade</title></episode>
+<episode><epnum>295</epnum><seasonnum>04</seasonnum><prodnum>DABF18</prodnum><airdate>2002-11-24</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206763</link><title>Large Marge</title></episode>
+<episode><epnum>296</epnum><seasonnum>05</seasonnum><prodnum>DABF21</prodnum><airdate>2002-12-01</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206764</link><title>Helter Shelter</title></episode>
+<episode><epnum>297</epnum><seasonnum>06</seasonnum><prodnum>EABF01</prodnum><airdate>2002-12-15</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206765</link><title>The Great Louse Detective</title></episode>
+<episode><epnum>298</epnum><seasonnum>07</seasonnum><prodnum>EABF02</prodnum><airdate>2003-01-05</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206766</link><title>Special Edna (a.k.a. Love And Marking)</title></episode>
+<episode><epnum>299</epnum><seasonnum>08</seasonnum><prodnum>EABF03</prodnum><airdate>2003-01-12</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206767</link><title>The Dad Who Knew Too Little</title></episode>
+<episode><epnum>300</epnum><seasonnum>09</seasonnum><prodnum>EABF04</prodnum><airdate>2003-02-02</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206768</link><title>The Strong Arms of the Ma</title></episode>
+<episode><epnum>301</epnum><seasonnum>10</seasonnum><prodnum>EABF06</prodnum><airdate>2003-02-09</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206769</link><title>Pray Anything</title></episode>
+<episode><epnum>302</epnum><seasonnum>11</seasonnum><prodnum>EABF05</prodnum><airdate>2003-02-16</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206770</link><title>Barting Over</title></episode>
+<episode><epnum>303</epnum><seasonnum>12</seasonnum><prodnum>EABF07</prodnum><airdate>2003-02-16</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206771</link><title>I'm Spelling As Fast As I Can</title></episode>
+<episode><epnum>304</epnum><seasonnum>13</seasonnum><prodnum>EABF08</prodnum><airdate>2003-03-02</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206772</link><title>A Star is Born Again</title></episode>
+<episode><epnum>305</epnum><seasonnum>14</seasonnum><prodnum>EABF09</prodnum><airdate>2003-03-09</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206773</link><title>Mr. Spritz Goes to Washington</title></episode>
+<episode><epnum>306</epnum><seasonnum>15</seasonnum><prodnum>EABF10</prodnum><airdate>2003-03-16</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206774</link><title>C. E. D'oh</title></episode>
+<episode><epnum>307</epnum><seasonnum>16</seasonnum><prodnum>EABF11</prodnum><airdate>2003-03-30</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206775</link><title>'Scuse Me While I Miss the Sky</title></episode>
+<episode><epnum>308</epnum><seasonnum>17</seasonnum><prodnum>EABF12</prodnum><airdate>2003-04-13</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206776</link><title>Three Gays of the Condo</title></episode>
+<episode><epnum>309</epnum><seasonnum>18</seasonnum><prodnum>EABF13</prodnum><airdate>2003-04-27</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206777</link><title>Dude, Where's My Ranch?</title></episode>
+<episode><epnum>310</epnum><seasonnum>19</seasonnum><prodnum>EABF14</prodnum><airdate>2003-05-04</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206778</link><title>Old Yeller-Belly</title></episode>
+<episode><epnum>311</epnum><seasonnum>20</seasonnum><prodnum>EABF15</prodnum><airdate>2003-05-11</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206779</link><title>Brake My Wife, Please</title></episode>
+<episode><epnum>312</epnum><seasonnum>21</seasonnum><prodnum>EABF16</prodnum><airdate>2003-05-18</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206780</link><title>The Bart of War</title></episode>
+<episode><epnum>313</epnum><seasonnum>22</seasonnum><prodnum>EABF17</prodnum><airdate>2003-05-18</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206781</link><title>Moe Baby Blues</title></episode>
+</Season>
+
+<Season no="15">
+<episode><epnum>314</epnum><seasonnum>01</seasonnum><prodnum>EABF21</prodnum><airdate>2003-11-02</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206782</link><title>Treehouse of Horror XIV</title></episode>
+<episode><epnum>315</epnum><seasonnum>02</seasonnum><prodnum>EABF18</prodnum><airdate>2003-11-09</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206783</link><title>My Mother the Carjacker</title></episode>
+<episode><epnum>316</epnum><seasonnum>03</seasonnum><prodnum>EABF20</prodnum><airdate>2003-11-16</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206784</link><title>The President Wore Pearls</title></episode>
+<episode><epnum>317</epnum><seasonnum>04</seasonnum><prodnum>EABF22</prodnum><airdate>2003-11-23</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206785</link><title>The Regina Monologues</title></episode>
+<episode><epnum>318</epnum><seasonnum>05</seasonnum><prodnum>EABF19</prodnum><airdate>2003-11-30</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206786</link><title>The Fat and the Furriest</title></episode>
+<episode><epnum>319</epnum><seasonnum>06</seasonnum><prodnum>FABF01</prodnum><airdate>2003-12-07</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206787</link><title>Today I am a Clown</title></episode>
+<episode><epnum>320</epnum><seasonnum>07</seasonnum><prodnum>FABF02</prodnum><airdate>2003-12-14</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206788</link><title>'Tis the Fifteenth Season</title></episode>
+<episode><epnum>321</epnum><seasonnum>08</seasonnum><prodnum>FABF03</prodnum><airdate>2004-01-04</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206789</link><title>Marge vs. Singles, Seniors, Childless Couples and Teens, and Gays</title></episode>
+<episode><epnum>322</epnum><seasonnum>09</seasonnum><prodnum>FABF04</prodnum><airdate>2004-01-11</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206790</link><title>I, (Annoyed Grunt)-Bot</title></episode>
+<episode><epnum>323</epnum><seasonnum>10</seasonnum><prodnum>FABF05</prodnum><airdate>2004-01-25</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206791</link><title>Diatribe of a Mad Housewife</title></episode>
+<episode><epnum>324</epnum><seasonnum>11</seasonnum><prodnum>FABF06</prodnum><airdate>2004-02-08</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206792</link><title>Margical History Tour</title></episode>
+<episode><epnum>325</epnum><seasonnum>12</seasonnum><prodnum>FABF07</prodnum><airdate>2004-02-15</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206793</link><title>Milhouse Doesn't Live Here Anymore</title></episode>
+<episode><epnum>326</epnum><seasonnum>13</seasonnum><prodnum>FABF09</prodnum><airdate>2004-02-22</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206794</link><title>Smart &amp; Smarter</title></episode>
+<episode><epnum>327</epnum><seasonnum>14</seasonnum><prodnum>FABF08</prodnum><airdate>2004-03-14</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206795</link><title>The Ziff Who Came to Dinner</title></episode>
+<episode><epnum>328</epnum><seasonnum>15</seasonnum><prodnum>FABF10</prodnum><airdate>2004-03-21</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206796</link><title>Co-Dependent's Day</title></episode>
+<episode><epnum>329</epnum><seasonnum>16</seasonnum><prodnum>FABF11</prodnum><airdate>2004-03-28</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206797</link><title>Wandering Juvie</title></episode>
+<episode><epnum>330</epnum><seasonnum>17</seasonnum><prodnum>FABF12</prodnum><airdate>2004-04-18</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206798</link><title>My Big Fat Geek Wedding</title></episode>
+<episode><epnum>331</epnum><seasonnum>18</seasonnum><prodnum>FABF14</prodnum><airdate>2004-04-25</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206799</link><title>Catch 'Em If You Can</title></episode>
+<episode><epnum>332</epnum><seasonnum>19</seasonnum><prodnum>FABF15</prodnum><airdate>2004-05-02</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206800</link><title>Simple Simpson</title></episode>
+<episode><epnum>333</epnum><seasonnum>20</seasonnum><prodnum>FABF13</prodnum><airdate>2004-05-09</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206801</link><title>The Way We Weren't</title></episode>
+<episode><epnum>334</epnum><seasonnum>21</seasonnum><prodnum>FABF17</prodnum><airdate>2004-05-16</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206802</link><title>Bart-Mangled Banner</title></episode>
+<episode><epnum>335</epnum><seasonnum>22</seasonnum><prodnum>FABF18</prodnum><airdate>2004-05-23</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206803</link><title>Fraudcast News</title></episode>
+</Season>
+
+<Season no="16">
+<episode><epnum>336</epnum><seasonnum>01</seasonnum><prodnum>FABF23</prodnum><airdate>2004-11-07</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206804</link><title>Treehouse of Horror XV</title></episode>
+<episode><epnum>337</epnum><seasonnum>02</seasonnum><prodnum>FABF20</prodnum><airdate>2004-11-14</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206805</link><title>All's Fair in Oven War</title></episode>
+<episode><epnum>338</epnum><seasonnum>03</seasonnum><prodnum>FABF19</prodnum><airdate>2004-11-21</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206806</link><title>Sleeping With the Enemy</title></episode>
+<episode><epnum>339</epnum><seasonnum>04</seasonnum><prodnum>FABF22</prodnum><airdate>2004-12-05</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206807</link><title>She Used to Be My Girl</title></episode>
+<episode><epnum>340</epnum><seasonnum>05</seasonnum><prodnum>FABF21</prodnum><airdate>2004-12-12</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206808</link><title>Fat Man and Little Boy</title></episode>
+<episode><epnum>341</epnum><seasonnum>06</seasonnum><prodnum>FABF16</prodnum><airdate>2005-01-16</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206809</link><title>Midnight Rx</title></episode>
+<episode><epnum>342</epnum><seasonnum>07</seasonnum><prodnum>GABF01</prodnum><airdate>2005-01-30</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206810</link><title>Mommie Beerest</title></episode>
+<episode><epnum>343</epnum><seasonnum>08</seasonnum><prodnum>GABF02</prodnum><airdate>2005-02-06</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206811</link><title>Homer and Ned's Hail Mary Pass</title></episode>
+<episode><epnum>344</epnum><seasonnum>09</seasonnum><prodnum>GABF03</prodnum><airdate>2005-02-13</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206812</link><title>Pranksta Rap</title></episode>
+<episode><epnum>345</epnum><seasonnum>10</seasonnum><prodnum>GABF04</prodnum><airdate>2005-02-20</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206813</link><title>There's Something About Marrying</title></episode>
+<episode><epnum>346</epnum><seasonnum>11</seasonnum><prodnum>GABF05</prodnum><airdate>2005-03-06</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206814</link><title>On a Clear Day I Can't See My Sister</title></episode>
+<episode><epnum>347</epnum><seasonnum>12</seasonnum><prodnum>GABF06</prodnum><airdate>2005-03-13</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206815</link><title>Goo Goo Gai Pan</title></episode>
+<episode><epnum>348</epnum><seasonnum>13</seasonnum><prodnum>GABF07</prodnum><airdate>2005-03-20</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206816</link><title>Mobile Homer</title></episode>
+<episode><epnum>349</epnum><seasonnum>14</seasonnum><prodnum>GABF08</prodnum><airdate>2005-04-03</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206817</link><title>The Seven-Beer Snitch</title></episode>
+<episode><epnum>350</epnum><seasonnum>15</seasonnum><prodnum>GABF12</prodnum><airdate>2005-04-17</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206818</link><title>Future-Drama</title></episode>
+<episode><epnum>351</epnum><seasonnum>16</seasonnum><prodnum>GABF10</prodnum><airdate>2005-05-01</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206819</link><title>Don't Fear the Roofer</title></episode>
+<episode><epnum>352</epnum><seasonnum>17</seasonnum><prodnum>GABF11</prodnum><airdate>2005-05-01</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206820</link><title>The Heartbroke Kid</title></episode>
+<episode><epnum>353</epnum><seasonnum>18</seasonnum><prodnum>GABF13</prodnum><airdate>2005-05-08</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206821</link><title>A Star is Torn</title></episode>
+<episode><epnum>354</epnum><seasonnum>19</seasonnum><prodnum>GABF14</prodnum><airdate>2005-05-08</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206822</link><title>Thank God It's Doomsday</title></episode>
+<episode><epnum>355</epnum><seasonnum>20</seasonnum><prodnum>GABF15</prodnum><airdate>2005-05-15</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206823</link><title>Home Away From Homer</title></episode>
+<episode><epnum>356</epnum><seasonnum>21</seasonnum><prodnum>GABF09</prodnum><airdate>2005-05-15</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206824</link><title>Father, Son and Holy Guest-Star</title></episode>
+</Season>
+
+<Season no="17">
+<episode><epnum>357</epnum><seasonnum>01</seasonnum><prodnum>GABF18</prodnum><airdate>2005-09-11</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206825</link><title>Bonfire of the Manatees</title></episode>
+<episode><epnum>358</epnum><seasonnum>02</seasonnum><prodnum>GABF16</prodnum><airdate>2005-09-18</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206826</link><title>The Girl Who Slept Too Little</title></episode>
+<episode><epnum>359</epnum><seasonnum>03</seasonnum><prodnum>GABF19</prodnum><airdate>2005-09-25</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206827</link><title>Milhouse of Sand and Fog</title></episode>
+<episode><epnum>360</epnum><seasonnum>04</seasonnum><prodnum>GABF17</prodnum><airdate>2005-11-06</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206828</link><title>Treehouse of Horror XVI</title></episode>
+<episode><epnum>361</epnum><seasonnum>05</seasonnum><prodnum>GABF20</prodnum><airdate>2005-11-13</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206829</link><title>Marge's Son Poisoning</title></episode>
+<episode><epnum>362</epnum><seasonnum>06</seasonnum><prodnum>GABF21</prodnum><airdate>2005-11-20</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206830</link><title>See Homer Run</title></episode>
+<episode><epnum>363</epnum><seasonnum>07</seasonnum><prodnum>GABF22</prodnum><airdate>2005-11-27</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/206831</link><title>The Last of the Red Hat Mamas</title></episode>
+<episode><epnum>364</epnum><seasonnum>08</seasonnum><prodnum>HABF02</prodnum><airdate>2005-12-11</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/306973</link><title>The Italian Bob</title></episode>
+<episode><epnum>365</epnum><seasonnum>09</seasonnum><prodnum>HABF01</prodnum><airdate>2005-12-18</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/307993</link><title>Simpson Christmas Stories</title></episode>
+<episode><epnum>366</epnum><seasonnum>10</seasonnum><prodnum>HABF03</prodnum><airdate>2006-01-08</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/308125</link><title>Homer's Paternity Coot</title></episode>
+<episode><epnum>367</epnum><seasonnum>11</seasonnum><prodnum>HABF04</prodnum><airdate>2006-01-29</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/308119</link><title>We're on the Road to D'oh-where</title></episode>
+<episode><epnum>368</epnum><seasonnum>12</seasonnum><prodnum>HABF05</prodnum><airdate>2006-02-26</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/308118</link><title>My Fair Laddy</title></episode>
+<episode><epnum>369</epnum><seasonnum>13</seasonnum><prodnum>HABF06</prodnum><airdate>2006-03-12</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/308121</link><title>The Seemingly Never-Ending Story</title></episode>
+<episode><epnum>370</epnum><seasonnum>14</seasonnum><prodnum>HABF07</prodnum><airdate>2006-03-19</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/308122</link><title>Bart Has Two Mommies</title></episode>
+<episode><epnum>371</epnum><seasonnum>15</seasonnum><prodnum>HABF08</prodnum><airdate>2006-03-26</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/308123</link><title>Homer Simpson, This is Your Wife</title></episode>
+<episode><epnum>372</epnum><seasonnum>16</seasonnum><prodnum>HABF09</prodnum><airdate>2006-04-02</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/308351</link><title>Million Dollar Abie</title></episode>
+<episode><epnum>373</epnum><seasonnum>17</seasonnum><prodnum>HABF10</prodnum><airdate>2006-04-09</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/308124</link><title>Kiss Kiss Bang Bangalore</title></episode>
+<episode><epnum>374</epnum><seasonnum>18</seasonnum><prodnum>HABF11</prodnum><airdate>2006-04-23</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/309665</link><title>The Wettest Stories Ever Told</title></episode>
+<episode><epnum>375</epnum><seasonnum>19</seasonnum><prodnum>HABF12</prodnum><airdate>2006-04-30</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/309666</link><title>Girls Just Want to Have Sums</title></episode>
+<episode><epnum>376</epnum><seasonnum>20</seasonnum><prodnum>HABF13</prodnum><airdate>2006-05-07</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/308353</link><title>Regarding Margie</title></episode>
+<episode><epnum>377</epnum><seasonnum>21</seasonnum><prodnum>HABF14</prodnum><airdate>2006-05-14</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/308352</link><title>The Monkey Suit</title></episode>
+<episode><epnum>378</epnum><seasonnum>22</seasonnum><prodnum>HABF16</prodnum><airdate>2006-05-21</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/313178</link><title>Marge and Homer Turn a Couple Play</title></episode>
+</Season>
+
+<Season no="18">
+<episode><epnum>379</epnum><seasonnum>01</seasonnum><prodnum>HABF15</prodnum><airdate>2006-09-10</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/313177</link><title>The Mook, the Chef, the Wife and Her Homer</title></episode>
+<episode><epnum>380</epnum><seasonnum>02</seasonnum><prodnum>HABF18</prodnum><airdate>2006-09-17</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/313179</link><title>Jazzy and the Pussycats</title></episode>
+<episode><epnum>381</epnum><seasonnum>03</seasonnum><prodnum>HABF20</prodnum><airdate>2006-09-24</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/336046</link><title>Please Homer, Don't Hammer 'em</title></episode>
+<episode><epnum>382</epnum><seasonnum>04</seasonnum><prodnum>HABF17</prodnum><airdate>2006-11-05</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/313175</link><title>Treehouse of Horror XVII</title></episode>
+<episode><epnum>383</epnum><seasonnum>05</seasonnum><prodnum>HABF21</prodnum><airdate>2006-11-12</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/410620</link><title>GI (Annoyed Grunt)</title></episode>
+<episode><epnum>384</epnum><seasonnum>06</seasonnum><prodnum>HABF19</prodnum><airdate>2006-11-19</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/308130</link><title>Moe 'N' a Lisa</title></episode>
+<episode><epnum>385</epnum><seasonnum>07</seasonnum><prodnum>HABF22</prodnum><airdate>2006-11-26</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/391052</link><title>Ice Cream of Margie (With the Light Blue Hair)</title></episode>
+<episode><epnum>386</epnum><seasonnum>08</seasonnum><prodnum>JABF02</prodnum><airdate>2006-12-10</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/410622</link><title>The Haw-Hawed Couple</title></episode>
+<episode><epnum>387</epnum><seasonnum>09</seasonnum><prodnum>JABF01</prodnum><airdate>2006-12-17</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/410621</link><title>Kill Gil (Parts I &amp; II)</title></episode>
+<episode><epnum>388</epnum><seasonnum>10</seasonnum><prodnum>JABF03</prodnum><airdate>2007-01-07</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/432488</link><title>The Wife Aquatic</title></episode>
+<episode><epnum>389</epnum><seasonnum>11</seasonnum><prodnum>JABF05</prodnum><airdate>2007-01-28</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/449346</link><title>Revenge is a Dish Best Served Three Times</title></episode>
+<episode><epnum>390</epnum><seasonnum>12</seasonnum><prodnum>JABF04</prodnum><airdate>2007-02-11</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/471064</link><title>Little Big Girl</title></episode>
+<episode><epnum>391</epnum><seasonnum>13</seasonnum><prodnum>JABF07</prodnum><airdate>2007-02-18</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/473559</link><title>Springfield Up</title></episode>
+<episode><epnum>392</epnum><seasonnum>14</seasonnum><prodnum>JABF09</prodnum><airdate>2007-03-04</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/422508</link><title>Yokel Chords</title></episode>
+<episode><epnum>393</epnum><seasonnum>15</seasonnum><prodnum>JABF08</prodnum><airdate>2007-03-11</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/471066</link><title>Rome-old and Juli-eh</title></episode>
+<episode><epnum>394</epnum><seasonnum>16</seasonnum><prodnum>JABF06</prodnum><airdate>2007-03-25</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/461023</link><title>Homerazzi</title></episode>
+<episode><epnum>395</epnum><seasonnum>17</seasonnum><prodnum>JABF10</prodnum><airdate>2007-04-22</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/532473</link><title>Marge Gamer</title></episode>
+<episode><epnum>396</epnum><seasonnum>18</seasonnum><prodnum>JABF11</prodnum><airdate>2007-04-29</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/471065</link><title>The Boys of Bummer</title></episode>
+<episode><epnum>397</epnum><seasonnum>19</seasonnum><prodnum>JABF13</prodnum><airdate>2007-05-06</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/483814</link><title>Crook and Ladder</title></episode>
+<episode><epnum>398</epnum><seasonnum>20</seasonnum><prodnum>JABF12</prodnum><airdate>2007-05-13</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/513749</link><title>Stop Or My Dog Will Shoot</title></episode>
+<episode><epnum>399</epnum><seasonnum>21</seasonnum><prodnum>JABF14</prodnum><airdate>2007-05-20</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/513750</link><title>24 Minutes</title></episode>
+<episode><epnum>400</epnum><seasonnum>22</seasonnum><prodnum>JABF15</prodnum><airdate>2007-05-20</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/543962</link><title>You Kent Always Say What You Want</title></episode>
+</Season>
+
+<Season no="19">
+<episode><epnum>401</epnum><seasonnum>01</seasonnum><prodnum>JABF20</prodnum><airdate>2007-09-23</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/580600</link><title>He Loves To Fly And He D'ohs</title></episode>
+<episode><epnum>402</epnum><seasonnum>02</seasonnum><prodnum>JABF18</prodnum><airdate>2007-09-30</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/591398</link><title>Homer of Seville</title></episode>
+<episode><epnum>403</epnum><seasonnum>03</seasonnum><prodnum>JABF21</prodnum><airdate>2007-10-07</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/591399</link><title>Midnight Towboy</title></episode>
+<episode><epnum>404</epnum><seasonnum>04</seasonnum><prodnum>JABF19</prodnum><airdate>2007-10-14</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/591401</link><title>I Don't Wanna Know Why the Caged Bird Sings</title></episode>
+<episode><epnum>405</epnum><seasonnum>05</seasonnum><prodnum>JABF16</prodnum><airdate>2007-11-04</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/591400</link><title>Treehouse of Horror XVIII</title></episode>
+<episode><epnum>406</epnum><seasonnum>06</seasonnum><prodnum>JABF22</prodnum><airdate>2007-11-11</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/591403</link><title>Little Orphan Millie</title></episode>
+<episode><epnum>407</epnum><seasonnum>07</seasonnum><prodnum>JABF17</prodnum><airdate>2007-11-18</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/591404</link><title>Husbands and Knives</title></episode>
+<episode><epnum>408</epnum><seasonnum>08</seasonnum><prodnum>KABF01</prodnum><airdate>2007-11-25</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/591405</link><title>Funeral for a Fiend</title></episode>
+<episode><epnum>409</epnum><seasonnum>09</seasonnum><prodnum>KABF02</prodnum><airdate>2007-12-16</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/627800</link><title>Eternal Moonshine of the Simpson Mind</title></episode>
+<episode><epnum>410</epnum><seasonnum>10</seasonnum><prodnum>KABF03</prodnum><airdate>2008-01-06</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/634121</link><title>E. Pluribus Wiggum</title></episode>
+<episode><epnum>411</epnum><seasonnum>11</seasonnum><prodnum>KABF04</prodnum><airdate>2008-01-27</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/634122</link><title>That 90's Show</title></episode>
+<episode><epnum>412</epnum><seasonnum>12</seasonnum><prodnum>KABF05</prodnum><airdate>2008-02-17</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/634123</link><title>Love, Springfieldian Style</title></episode>
+<episode><epnum>413</epnum><seasonnum>13</seasonnum><prodnum>KABF06</prodnum><airdate>2008-03-02</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/638628</link><title>The Debarted</title></episode>
+<episode><epnum>414</epnum><seasonnum>14</seasonnum><prodnum>KABF07</prodnum><airdate>2008-03-09</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/642191</link><title>Dial 'N' for Nerder</title></episode>
+<episode><epnum>415</epnum><seasonnum>15</seasonnum><prodnum>KABF08</prodnum><airdate>2008-03-30</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/645375</link><title>Smoke on the Daughter</title></episode>
+<episode><epnum>416</epnum><seasonnum>16</seasonnum><prodnum>KABF09</prodnum><airdate>2008-04-13</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/648793</link><title>Papa Don't Leech</title></episode>
+<episode><epnum>417</epnum><seasonnum>17</seasonnum><prodnum>KABF10</prodnum><airdate>2008-04-27</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/651864</link><title>Apocalypse Cow</title></episode>
+<episode><epnum>418</epnum><seasonnum>18</seasonnum><prodnum>KABF11</prodnum><airdate>2008-05-04</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/651865</link><title>Any Given Sundance</title></episode>
+<episode><epnum>419</epnum><seasonnum>19</seasonnum><prodnum>KABF12</prodnum><airdate>2008-05-11</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/651866</link><title>Mona Leaves-a</title></episode>
+<episode><epnum>420</epnum><seasonnum>20</seasonnum><prodnum>KABF13</prodnum><airdate>2008-05-18</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/653727</link><title>All About Lisa</title></episode>
+</Season>
+
+<Season no="20">
+<episode><epnum>421</epnum><seasonnum>01</seasonnum><prodnum>KABF17</prodnum><airdate>2008-09-28</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/668033</link><title>Sex, Pies and Idiot Scrapes</title></episode>
+<episode><epnum>422</epnum><seasonnum>02</seasonnum><prodnum>KABF15</prodnum><airdate>2008-10-05</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/676070</link><title>Lost Verizon</title></episode>
+<episode><epnum>423</epnum><seasonnum>03</seasonnum><prodnum>KABF14</prodnum><airdate>2008-10-19</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/722690</link><title>Double, Double, Boy in Trouble</title></episode>
+<episode><epnum>424</epnum><seasonnum>04</seasonnum><prodnum>KABF16</prodnum><airdate>2008-11-02</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/707913</link><title>Treehouse of Horror XIX</title></episode>
+<episode><epnum>425</epnum><seasonnum>05</seasonnum><prodnum>KABF18</prodnum><airdate>2008-11-09</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/729379</link><title>Dangerous Curves</title></episode>
+<episode><epnum>426</epnum><seasonnum>06</seasonnum><prodnum>KABF19</prodnum><airdate>2008-11-16</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/731368</link><title>Homer and Lisa Exchange Cross Words</title></episode>
+<episode><epnum>427</epnum><seasonnum>07</seasonnum><prodnum>KABF20</prodnum><airdate>2008-11-30</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/741548</link><title>Mypods and Boomsticks</title></episode>
+<episode><epnum>428</epnum><seasonnum>08</seasonnum><prodnum>KABF21</prodnum><airdate>2008-12-07</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/741549</link><title>The Burns and the Bees</title></episode>
+<episode><epnum>429</epnum><seasonnum>09</seasonnum><prodnum>KABF22</prodnum><airdate>2009-01-25</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/769229</link><title>Lisa the Drama Queen</title></episode>
+<episode><epnum>430</epnum><seasonnum>10</seasonnum><prodnum>LABF01</prodnum><airdate>2009-02-15</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/707914</link><title>Take My Life, Please</title></episode>
+<episode><epnum>431</epnum><seasonnum>11</seasonnum><prodnum>LABF02</prodnum><airdate>2009-03-01</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/781771</link><title>How the Test Was Won</title></episode>
+<episode><epnum>432</epnum><seasonnum>12</seasonnum><prodnum>LABF03</prodnum><airdate>2009-03-08</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/781772</link><title>No Loan Again, Naturally</title></episode>
+<episode><epnum>433</epnum><seasonnum>13</seasonnum><prodnum>LABF04</prodnum><airdate>2009-03-15</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/782959</link><title>Gone Maggie Gone</title></episode>
+<episode><epnum>434</epnum><seasonnum>14</seasonnum><prodnum>LABF11</prodnum><airdate>2009-03-22</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/782960</link><title>In the Name of the Grandfather</title></episode>
+<episode><epnum>435</epnum><seasonnum>15</seasonnum><prodnum>LABF05</prodnum><airdate>2009-03-29</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/784645</link><title>Wedding For Disaster</title></episode>
+<episode><epnum>436</epnum><seasonnum>16</seasonnum><prodnum>LABF06</prodnum><airdate>2009-04-05</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1064795566</link><title>Eeny Teeny Maya Moe</title></episode>
+<episode><epnum>437</epnum><seasonnum>17</seasonnum><prodnum>LABF07</prodnum><airdate>2009-04-19</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1064796782</link><title>The Good, the Sad and the Drugly</title></episode>
+<episode><epnum>438</epnum><seasonnum>18</seasonnum><prodnum>LABF08</prodnum><airdate>2009-04-26</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1064798230</link><title>Father Knows Worst</title></episode>
+<episode><epnum>439</epnum><seasonnum>19</seasonnum><prodnum>LABF10</prodnum><airdate>2009-05-03</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1064799372</link><title>Waverly Hills, 9021-D'Oh</title></episode>
+<episode><epnum>440</epnum><seasonnum>20</seasonnum><prodnum>LABF09</prodnum><airdate>2009-05-10</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1064799715</link><title>Four Great Women and a Manicure</title></episode>
+<episode><epnum>441</epnum><seasonnum>21</seasonnum><prodnum>LABF12</prodnum><airdate>2009-05-17</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1064799716</link><title>Coming to Homerica</title></episode>
+</Season>
+
+<Season no="21">
+<episode><epnum>442</epnum><seasonnum>01</seasonnum><prodnum>LABF13</prodnum><airdate>2009-09-27</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1064810211</link><title>Homer the Whopper</title></episode>
+<episode><epnum>443</epnum><seasonnum>02</seasonnum><prodnum>LABF15</prodnum><airdate>2009-10-04</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1064824038</link><title>Bart Gets A 'Z'</title></episode>
+<episode><epnum>444</epnum><seasonnum>03</seasonnum><prodnum>LABF16</prodnum><airdate>2009-10-11</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1064824039</link><title>The Great Wife Hope</title></episode>
+<episode><epnum>445</epnum><seasonnum>04</seasonnum><prodnum>LABF14</prodnum><airdate>2009-10-18</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1064824037</link><title>Treehouse of Horror XX</title></episode>
+<episode><epnum>446</epnum><seasonnum>05</seasonnum><prodnum>LABF17</prodnum><airdate>2009-11-15</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1064824040</link><title>The Devil Wears Nada</title></episode>
+<episode><epnum>447</epnum><seasonnum>06</seasonnum><prodnum>LABF18</prodnum><airdate>2009-11-22</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1064824041</link><title>Pranks and Greens</title></episode>
+<episode><epnum>448</epnum><seasonnum>07</seasonnum><prodnum>LABF19</prodnum><airdate>2009-11-29</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1064841566</link><title>Rednecks and Broomsticks</title></episode>
+<episode><epnum>449</epnum><seasonnum>08</seasonnum><prodnum>MABF01</prodnum><airdate>2009-12-13</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1064824044</link><title>O Brother, Where Bart Thou?</title></episode>
+<episode><epnum>450</epnum><seasonnum>09</seasonnum><prodnum>MABF02</prodnum><airdate>2010-01-03</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1064824045</link><title>Thursdays with Abie</title></episode>
+<episode><epnum>451</epnum><seasonnum>10</seasonnum><prodnum>LABF20</prodnum><airdate>2010-01-10</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1064878454</link><title>Once Upon A Time in Springfield</title></episode>
+<episode><epnum>452</epnum><seasonnum>11</seasonnum><prodnum>MABF03</prodnum><airdate>2010-01-31</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1064841567</link><title>Million Dollar Maybe</title></episode>
+<episode><epnum>453</epnum><seasonnum>12</seasonnum><prodnum>MABF05</prodnum><airdate>2010-02-14</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1064896628</link><title>Boy Meets Curl</title></episode>
+<episode><epnum>454</epnum><seasonnum>13</seasonnum><prodnum>MABF06</prodnum><airdate>2010-02-21</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1064896937</link><title>The Color Yellow</title></episode>
+<episode><epnum>455</epnum><seasonnum>14</seasonnum><prodnum>MABF04</prodnum><airdate>2010-03-14</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1064870675</link><title>Postcards From the Wedge</title></episode>
+<episode><epnum>456</epnum><seasonnum>15</seasonnum><prodnum>MABF07</prodnum><airdate>2010-03-21</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1064898223</link><title>Stealing First Base</title></episode>
+<episode><epnum>457</epnum><seasonnum>16</seasonnum><prodnum>MABF10</prodnum><airdate>2010-03-28</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1064854482</link><title>The Greatest Story Ever D'ohed</title></episode>
+<episode><epnum>458</epnum><seasonnum>17</seasonnum><prodnum>MABF08</prodnum><airdate>2010-04-11</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1064913266</link><title>American History X-cellent</title></episode>
+<episode><epnum>459</epnum><seasonnum>18</seasonnum><prodnum>MABF09</prodnum><airdate>2010-04-18</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1064913267</link><title>Chief of Hearts</title></episode>
+<episode><epnum>460</epnum><seasonnum>19</seasonnum><prodnum>MABF14</prodnum><airdate>2010-04-25</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1064866868</link><title>The Squirt and the Whale</title></episode>
+<episode><epnum>461</epnum><seasonnum>20</seasonnum><prodnum>MABF12</prodnum><airdate>2010-05-02</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1064866869</link><title>To Surveil With Love</title></episode>
+<episode><epnum>462</epnum><seasonnum>21</seasonnum><prodnum>MABF13</prodnum><airdate>2010-05-09</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1064866870</link><title>Moe Letter Blues</title></episode>
+<episode><epnum>463</epnum><seasonnum>22</seasonnum><prodnum>MABF11</prodnum><airdate>2010-05-16</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1064898224</link><title>The Bob Next Door</title></episode>
+<episode><epnum>464</epnum><seasonnum>23</seasonnum><prodnum>MABF15</prodnum><airdate>2010-05-23</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1064932463</link><title>Judge Me Tender</title></episode>
+</Season>
+
+<Season no="22">
+<episode><epnum>465</epnum><seasonnum>01</seasonnum><prodnum>MABF21</prodnum><airdate>2010-09-26</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1064957334</link><title>Elementary School Musical</title></episode>
+<episode><epnum>466</epnum><seasonnum>02</seasonnum><prodnum></prodnum><airdate>2010-10-03</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1064976392</link><title>Loan-a-Lisa</title></episode>
+<episode><epnum>467</epnum><seasonnum>03</seasonnum><prodnum></prodnum><airdate>2010-10-10</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1064976394</link><title>Money Bart</title></episode>
+<episode><epnum>468</epnum><seasonnum>04</seasonnum><prodnum>MABF16</prodnum><airdate>2010-11-07</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1064976395</link><title>Treehouse of Horror XXI</title></episode>
+<episode><epnum>469</epnum><seasonnum>05</seasonnum><prodnum></prodnum><airdate>2010-11-14</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1064976397</link><title>Lisa Simpson, This Isn't Your Life</title></episode>
+<episode><epnum>470</epnum><seasonnum>06</seasonnum><prodnum></prodnum><airdate>2010-11-21</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1064976396</link><title>The Fool Monty</title></episode>
+<episode><epnum>471</epnum><seasonnum>07</seasonnum><prodnum></prodnum><airdate>2010-11-28</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1064976393</link><title>How Munched is That Birdie in the Window</title></episode>
+<episode><epnum>472</epnum><seasonnum>08</seasonnum><prodnum></prodnum><airdate>2010-12-05</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1064976398</link><title>The Fight Before Christmas</title></episode>
+<episode><epnum>473</epnum><seasonnum>09</seasonnum><prodnum></prodnum><airdate>2010-12-12</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1064976399</link><title>Donnie Fatso</title></episode>
+<episode><epnum>474</epnum><seasonnum>10</seasonnum><prodnum></prodnum><airdate>2011-01-09</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1065006406</link><title>Moms I'd Like To Forget</title></episode>
+<episode><epnum>475</epnum><seasonnum>11</seasonnum><prodnum>NABF04</prodnum><airdate>2011-01-16</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1065006988</link><title>Flaming Moe</title></episode>
+<episode><epnum>476</epnum><seasonnum>12</seasonnum><prodnum></prodnum><airdate>2011-01-23</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1065008315</link><title>Homer The Father</title></episode>
+<episode><epnum>477</epnum><seasonnum>13</seasonnum><prodnum>NABF06</prodnum><airdate>2011-02-13</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1065013160</link><title>The Blue and the Gray</title></episode>
+<episode><epnum>478</epnum><seasonnum>14</seasonnum><prodnum>NABF07</prodnum><airdate>2011-02-20</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1065014374</link><title>Angry Dad: The Movie</title></episode>
+<episode><epnum>479</epnum><seasonnum>15</seasonnum><prodnum></prodnum><airdate>2011-03-06</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1065017859</link><title>The Scorpion’s Tale</title></episode>
+<episode><epnum>480</epnum><seasonnum>16</seasonnum><prodnum></prodnum><airdate>2011-03-13</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1065018522</link><title>A Midsummer’s Nice Dream</title></episode>
+<episode><epnum>481</epnum><seasonnum>17</seasonnum><prodnum></prodnum><airdate>2011-03-27</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1065022994</link><title>Love Is A Many Strangled Thing</title></episode>
+<episode><epnum>482</epnum><seasonnum>18</seasonnum><prodnum></prodnum><airdate>2011-04-10</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1065026852</link><title>The Great Simpsina</title></episode>
+<episode><epnum>483</epnum><seasonnum>19</seasonnum><prodnum></prodnum><airdate>2011-05-01</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1065033468</link><title>The Real Housewives of Fat Tony</title></episode>
+<episode><epnum>484</epnum><seasonnum>20</seasonnum><prodnum>NABF13</prodnum><airdate>2011-05-08</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1065036011</link><title>Homer Scissorhands</title></episode>
+<episode><epnum>485</epnum><seasonnum>21</seasonnum><prodnum></prodnum><airdate>2011-05-15</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1065036013</link><title>500 Keys</title></episode>
+<episode><epnum>486</epnum><seasonnum>22</seasonnum><prodnum></prodnum><airdate>2011-05-22</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1065036014</link><title>The Ned-Liest Catch</title></episode>
+</Season>
+
+<Season no="23">
+<episode><epnum>487</epnum><seasonnum>01</seasonnum><prodnum>NABF16</prodnum><airdate>2011-09-25</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1065055394</link><title>The Falcon and the D’Ohman</title></episode>
+<episode><epnum>488</epnum><seasonnum>02</seasonnum><prodnum>NABF17</prodnum><airdate>2011-10-02</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1065055720</link><title>Bart Stops to Smell the Roosevelts</title></episode>
+<episode><epnum>489</epnum><seasonnum>03</seasonnum><prodnum>NABF19</prodnum><airdate>2011-10-30</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1065081247</link><title>Treehouse of Horror XXII</title></episode>
+<episode><epnum>490</epnum><seasonnum>04</seasonnum><prodnum>NABF21</prodnum><airdate>2011-11-06</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1065100650</link><title>Replaceable You</title></episode>
+<episode><epnum>491</epnum><seasonnum>05</seasonnum><prodnum>NABF20</prodnum><airdate>2011-11-13</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1065081248</link><title>The Food Wife</title></episode>
+<episode><epnum>492</epnum><seasonnum>06</seasonnum><prodnum>NABF22</prodnum><airdate>2011-11-20</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1065081249</link><title>The Book Job</title></episode>
+<episode><epnum>493</epnum><seasonnum>07</seasonnum><prodnum>PABF01</prodnum><airdate>2011-11-27</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1065081250</link><title>The Man in the Blue Flannel Pants</title></episode>
+<episode><epnum>494</epnum><seasonnum>08</seasonnum><prodnum>PABF02</prodnum><airdate>2011-12-04</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1065081251</link><title>The Ten-Per-Cent Solution</title></episode>
+<episode><epnum>495</epnum><seasonnum>09</seasonnum><prodnum>NABF18</prodnum><airdate>2011-12-11</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1065118157</link><title>Holidays Of Future Passed</title></episode>
+<episode><epnum>496</epnum><seasonnum>10</seasonnum><prodnum>PABF03</prodnum><airdate>2012-01-08</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1065126294</link><title>Politically Inept, With Homer Simpson</title></episode>
+<episode><epnum>497</epnum><seasonnum>11</seasonnum><prodnum>PABF04</prodnum><airdate>2012-01-15</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1065131968</link><title>The D'oh-cial Network</title></episode>
+<episode><epnum>498</epnum><seasonnum>12</seasonnum><prodnum>PABF05</prodnum><airdate>2012-01-29</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1065081252</link><title>Moe Goes From Rags To Riches</title></episode>
+<episode><epnum>499</epnum><seasonnum>13</seasonnum><prodnum>PABF06</prodnum><airdate>2012-02-12</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1065142209</link><title>The Daughter Also Rises</title></episode>
+<episode><epnum>500</epnum><seasonnum>14</seasonnum><prodnum>PABF07</prodnum><airdate>2012-02-19</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1065142385</link><title>At Long Last Leave</title></episode>
+<episode><epnum>501</epnum><seasonnum>15</seasonnum><prodnum>PABF09</prodnum><airdate>2012-03-04</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1065146384</link><title>Exit Through the Kwik-E-Mart</title></episode>
+<episode><epnum>502</epnum><seasonnum>16</seasonnum><prodnum>PABF08</prodnum><airdate>2012-03-11</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1065147954</link><title>How I Wet Your Mother</title></episode>
+<episode><epnum>503</epnum><seasonnum>17</seasonnum><prodnum>PABF10</prodnum><airdate>2012-03-18</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1065149429</link><title>Them, Robot</title></episode>
+<episode><epnum>504</epnum><seasonnum>18</seasonnum><prodnum>PABF11</prodnum><airdate>2012-04-15</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1065081253</link><title>Beware My Cheating Bart</title></episode>
+<episode><epnum>505</epnum><seasonnum>19</seasonnum><prodnum>PABF12</prodnum><airdate>2012-04-29</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1065156497</link><title>A Totally Fun Thing That Bart Will Never Do Again</title></episode>
+<episode><epnum>506</epnum><seasonnum>20</seasonnum><prodnum>PABF13</prodnum><airdate>2012-05-06</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1065156498</link><title>The Spy Who Learned Me</title></episode>
+<episode><epnum>508</epnum><seasonnum>21</seasonnum><prodnum></prodnum><airdate>2012-05-13</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1065176935</link><title>Ned ‘N Edna’s Blend</title></episode>
+<episode><epnum>507</epnum><seasonnum>22</seasonnum><prodnum>PABF14</prodnum><airdate>2012-05-20</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1065156499</link><title>Lisa Goes Gaga</title></episode>
+</Season>
+
+<Season no="24">
+<episode><epnum>509</epnum><seasonnum>01</seasonnum><prodnum>PABF21</prodnum><airdate>2012-09-30</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1065192396</link><title>Moonshine River</title></episode>
+<episode><epnum>510</epnum><seasonnum>02</seasonnum><prodnum>PABF17</prodnum><airdate>2012-10-07</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1065183247</link><title>Treehouse of Horror XXIII</title></episode>
+<episode><epnum>511</epnum><seasonnum>03</seasonnum><prodnum>PABF18</prodnum><airdate>2012-11-04</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1065183246</link><title>Adventures in Baby-Getting</title></episode>
+<episode><epnum>512</epnum><seasonnum>04</seasonnum><prodnum>PABF16</prodnum><airdate>2012-11-11</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1065183245</link><title>Gone Abie Gone</title></episode>
+<episode><epnum>513</epnum><seasonnum>05</seasonnum><prodnum>PABF19</prodnum><airdate>2012-11-18</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1065183244</link><title>Penny-Wiseguys</title></episode>
+<episode><epnum>514</epnum><seasonnum>06</seasonnum><prodnum>PABF22</prodnum><airdate>2012-11-25</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1065183249</link><title>A Tree Grows in Springfield</title></episode>
+<episode><epnum>515</epnum><seasonnum>07</seasonnum><prodnum>PABF20</prodnum><airdate>2012-12-09</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1065183248</link><title>The Day the Earth Stood Cool</title></episode>
+</Season>
+
+<Movie>
+<episode><season>18</season><airdate>2007-07-27</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1064948979</link><title>The Simpsons Movie</title></episode>
+</Movie>
+
+<Special>
+<episode><season>21</season><airdate>2010-01-10</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1064824042</link><title>The Simpsons 20th Anniversary Special - In 3-D! On Ice!</title></episode>
+<episode><season>24</season><airdate>2012-10-19</airdate><link>http://www.tvrage.com/The_Simpsons/episodes/1065233339</link><title>Stand Up To Cancer</title></episode>
+</Special>
+
+</Episodelist>
+
+</Show>
