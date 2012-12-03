@@ -3,7 +3,7 @@
 <html>
   <head>
     <meta name="layout" content="main">
-    <r:require module="application"/>
+    <r:require module="application, tvShowManage"/>
   </head>
   <body>
     <div id="tvShows">
