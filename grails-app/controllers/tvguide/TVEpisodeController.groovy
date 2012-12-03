@@ -1,63 +1,71 @@
 package tvguide
 
 import groovy.xml.*
+import grails.plugins.springsecurity.Secured
 
+@Secured(['IS_AUTHENTICATED_FULLY'])
 class TVEpisodeController {
+    def springSecurityService
 
     def index() { }
     
+    @Secured(['ROLE_ADMIN'])
     def importer() {
         
         List newEpisodeList = []
         List existingEpisodeList = []
         
         
-        def myUser = authenticateService.principal()
-        myUser.watching.each() { tvShowWatcher ->
-            //def tvShow = TVShow.findByDirectory('Simpsons')
-            def tvShow = tvShowWatcher.show
-        
-            log.error "start show " + tvShow.title + " with rage id " + tvShow.tvrage
+        def myUser = User.get(springSecurityService.principal.id)
+        if(myUser && (myUser.watching.size() > 0)) {
+            myUser.watching.each() { tvShowWatcher ->
+                //def tvShow = TVShow.findByDirectory('Simpsons')
+                def tvShow = tvShowWatcher.show
 
-            TVEpisode.updateFlagReset()
-            //def tvShow = TVShow.get()
-            String address = "http://services.tvrage.com/feeds/episode_list.php?sid="
-            String addressComplete = address + tvShow.tvrage
+                log.error "start show " + tvShow.title + " with rage id " + tvShow.tvrage
 
-            def importFeed = new XmlSlurper().parse(addressComplete)
-            def episodeList = importFeed.Episodelist
-            //render episodeList
-            episodeList.Season.each() { season ->
-                //render "S" + season.@no + "-"
-                season.episode.each { episode ->
-                    //render "E" + episode.seasonnum + ","
-                    Integer episodeNumber = episode.epnum.text() as int
-                    Integer episodeSeason = season.@no.text() as int
-                    Integer episodeEpisode = episode.seasonnum.text() as int
-                    String episodeProductionCode = episode.prodnum.text()
-                    Date episodeAirDate = new Date().parse('yyyy-MM-dd', episode.airdate.text())
-                    String episodeTitle = episode.title
-                    Boolean episodeIsSpecial = false
-                    String episodeTVRage = episode.link
+                TVEpisode.updateFlagReset()
+                //def tvShow = TVShow.get()
+                String address = "http://services.tvrage.com/feeds/episode_list.php?sid="
+                String addressComplete = address + tvShow.tvrage
 
-                    def tvEpisode = TVEpisode.findByNumber(episodeNumber)
-                    if(tvEpisode) { // update it
-                        if(tvEpisode.updateFlag == false) {
-                            tvEpisode.updateFlag = true
-                            tvEpisode.save(flush:true)
-                            existingEpisodeList.add(tvEpisode)
-                            //log.error tvShow.updateFlag
-                            //log.error "already exists: " + tokens[1]
-                        } else {
-                            log.error "skipping: " + episodeTitle
+                def importFeed = new XmlSlurper().parse(addressComplete)
+                def episodeList = importFeed.Episodelist
+                //render episodeList
+                episodeList.Season.each() { season ->
+                    //render "S" + season.@no + "-"
+                    season.episode.each { episode ->
+                        //render "E" + episode.seasonnum + ","
+                        Integer episodeNumber = episode.epnum.text() as int
+                        Integer episodeSeason = season.@no.text() as int
+                        Integer episodeEpisode = episode.seasonnum.text() as int
+                        String episodeProductionCode = episode.prodnum.text()
+                        Date episodeAirDate = new Date().parse('yyyy-MM-dd', episode.airdate.text())
+                        String episodeTitle = episode.title
+                        Boolean episodeIsSpecial = false
+                        String episodeTVRage = episode.link
+
+                        def tvEpisode = TVEpisode.findByNumber(episodeNumber)
+                        if(tvEpisode) { // update it
+                            if(tvEpisode.updateFlag == false) {
+                                tvEpisode.updateFlag = true
+                                tvEpisode.save(flush:true)
+                                existingEpisodeList.add(tvEpisode)
+                                //log.error tvShow.updateFlag
+                                //log.error "already exists: " + tokens[1]
+                            } else {
+                                log.error "skipping: " + episodeTitle
+                            }
+                        } else { // create new one
+                            def tvEpisodeNew = new TVEpisode(show: tvShow, number: episodeNumber, season: episodeSeason, episode: episodeEpisode, productionCode: episodeProductionCode, airDate: episodeAirDate, title: episodeTitle, isSpecial: episodeIsSpecial, tvrage: episodeTVRage, updateFlag: true).save(flush:true, failOnError: true)
+                            newEpisodeList.add(tvEpisodeNew)
+                            log.error "added: " + episodeTitle + " on " + episodeAirDate.format("d MMMM, yyyy")
                         }
-                    } else { // create new one
-                        //def tvEpisodeNew = new TVEpisode(show: tvShow, number: episodeNumber, season: episodeSeason, episode: episodeEpisode, productionCode: episodeProductionCode, airDate: episodeAirDate, title: episodeTitle, isSpecial: episodeIsSpecial, tvrage: episodeTVRage, updateFlag: true).save(flush:true, failOnError: true)
-                        //newEpisodeList.add(tvEpisodeNew)
-                        log.error "added: " + episodeTitle + " on " + episodeAirDate.format("d MMMM, yyyy")
                     }
                 }
             }
+        } else {
+            render "bad user"
         }
         
         

@@ -1,11 +1,13 @@
 package tvguide
 
 import groovy.xml.*
+import grails.plugins.springsecurity.Secured
 
 class TVShowController {
 
     def index() { }
     
+    @Secured(['ROLE_ADMIN'])
     def importer() {
         String address = "http://epguides.com/common/allshows.txt"
         String pathForData = System.properties['base.dir']+"/web-app/WEB-INF/epguides"

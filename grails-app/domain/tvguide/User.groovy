@@ -15,6 +15,10 @@ class User {
         String lastName
         
         static hasMany = [episodeDownloads:TVEpisodeDownload, watching:TVShowWatcher]
+        
+        String toString() {
+            "${username}"
+        }
 
 	static constraints = {
 		username blank: false, unique: true

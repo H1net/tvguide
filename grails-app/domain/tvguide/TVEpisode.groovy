@@ -12,6 +12,8 @@ class TVEpisode {
     String title
     Boolean isSpecial
     String tvrage
+    Date dateCreated
+    Date lastUpdated
     Boolean updateFlag
     
     String toString() {
@@ -20,6 +22,16 @@ class TVEpisode {
     
     static hasMany = [downloads:TVEpisodeDownload]
     static belongsTo = [show:TVShow]
+    
+    static mapping = {
+        show index: 'show_idx'
+        number index: 'number_idx'
+        season index: 'season_idx'
+        episode index: 'episode_idx'
+        airDate index: 'airDate_idx'
+        updateFlag index: 'updateFlag'
+        dateCreated index: 'dateCreated_idx'
+    }
     
     static constraints = {
     }
