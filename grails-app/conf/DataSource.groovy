@@ -12,7 +12,7 @@ hibernate {
 environments {
     development {
         dataSource {
-            dbCreate = "create-drop" // one of 'create', 'create-drop', 'update', 'validate', ''
+            //dbCreate = "create-drop" // one of 'create', 'create-drop', 'update', 'validate', ''
             url = "jdbc:mysql://localhost/tvguide_dev?useUnicode=yes&characterEncoding=UTF-8"
             username = "tvguideuser"
             password = "sdFTTY789sadf89"

@@ -94,3 +94,4 @@ log4j = {
 grails.plugins.springsecurity.userLookup.userDomainClassName = 'tvguide.User'
 grails.plugins.springsecurity.userLookup.authorityJoinClassName = 'tvguide.UserRole'
 grails.plugins.springsecurity.authority.className = 'tvguide.Role'
+grails.plugins.springsecurity.successHandler.defaultTargetUrl = '/home/home'

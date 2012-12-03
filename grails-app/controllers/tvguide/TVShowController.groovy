@@ -3,9 +3,15 @@ package tvguide
 import groovy.xml.*
 import grails.plugins.springsecurity.Secured
 
+@Secured(['IS_AUTHENTICATED_FULLY'])
 class TVShowController {
 
     def index() { }
+    
+    def list(Integer max) {
+        params.max = Math.min(max ?: 100, 100)
+        [tvShows: TVShow.list(params), tvShowTotal: TVShow.count()]
+    }
     
     @Secured(['ROLE_ADMIN'])
     def importer() {
