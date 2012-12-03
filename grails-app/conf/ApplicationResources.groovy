@@ -1,6 +1,6 @@
 modules = {
     application {
-        //dependsOn 'jquery'
+        dependsOn 'jquery'
         resource url:'js/application.js'
         resource url:'css/main.css' 
         resource url:'css/errors.css'
@@ -8,5 +8,8 @@ modules = {
     }
     login {
         resource url:'css/login.css'
+    }
+    tvShowManage {
+        resource url:'js/tvShowManage.js'
     }
 }
