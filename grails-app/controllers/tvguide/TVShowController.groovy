@@ -187,8 +187,8 @@ class TVShowController {
         
         tvShowsHunting.each() { showTitle -> 
             List searchShowResults = []
-            def searchTitle = showTitle.replaceAll('\\[The\\]|\\(US\\)|\\(UK\\)', '')
-            def tvShows = TVShow.findByTitleLike("%"+searchTitle+"%")
+            def searchTitle = showTitle.replaceAll('\\[The\\]|\\(US\\)|\\(UK\\)', '').trim()
+            def tvShows = TVShow.findAllByTitleLike("%"+searchTitle+"%")
             tvShows.each() { tvShow ->
                 searchShowResults.add(tvShow)
             }
