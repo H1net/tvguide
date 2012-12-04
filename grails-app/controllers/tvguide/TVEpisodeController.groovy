@@ -62,8 +62,8 @@ class TVEpisodeController {
                                 //log.error "already exists: " + tokens[1]
                             } else {
                                 countShowSkipped++
-                                log.error "skipping: " + tvShow.title + " " + episodeSeason + "x" + episodeEpisode + " - " + episodeTitle + " on " + episodeAirDate.format("d MMMM, yyyy")
-                                log.error "for: " + tvEpisode.show.title + " " + tvEpisode.season + "x" + tvEpisode.episode + " - " + tvEpisode.title + " on " + tvEpisode.airDate.format("d MMMM, yyyy")
+                                //log.error "skipping: " + tvShow.title + " " + episodeSeason + "x" + episodeEpisode + " - " + episodeTitle + " on " + episodeAirDate.format("d MMMM, yyyy")
+                                //log.error "for: " + tvEpisode.show.title + " " + tvEpisode.season + "x" + tvEpisode.episode + " - " + tvEpisode.title + " on " + tvEpisode.airDate.format("d MMMM, yyyy")
                             }
                         } else { // create new one
                             def tvEpisodeNew = new TVEpisode(show: tvShow, number: episodeNumber, season: episodeSeason, episode: episodeEpisode, productionCode: episodeProductionCode, airDate: episodeAirDate, title: episodeTitle, isSpecial: episodeIsSpecial, tvrage: episodeTVRage, updateFlag: true).save(flush:true, failOnError: true)
