@@ -21,7 +21,7 @@
           <h3>${day.date.format("EEE, MMM d, ''yy")}</h3>
           <ul>
             <g:each in="${day.tvEpisodes}" var="tvEpisode">
-              <li><a href="http://nzbmatrix.com/nzb-search.php?search=${tvEpisode.show.title.encodeAsURL()}+S${tvEpisode.season}E<g:if test="${tvEpisode.episode<10}">0</g:if>${tvEpisode.episode}&cat=0" target="_blank">[nzb]</a> <a href="${createLink(controller: 'TVShow', action:'show', id: tvEpisode.show.id)}">${tvEpisode.show.title}</a> - ${tvEpisode.season}x${tvEpisode.episode} - <a href="${tvEpisode.tvrage}" target="_blank">${tvEpisode.title}</a></li>
+              <li><a href="http://nzbmatrix.com/nzb-search.php?search=${tvEpisode.show.title.encodeAsURL()}" target="_blank">[nzb]</a> <a href="${createLink(controller: 'TVShow', action:'show', id: tvEpisode.show.id)}">${tvEpisode.show.title}</a> - ${tvEpisode.season}x${tvEpisode.episode} - <a href="${tvEpisode.tvrage}" target="_blank">${tvEpisode.title}</a></li>
             </g:each>
           </ul>
         </div>
