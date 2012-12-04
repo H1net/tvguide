@@ -34,23 +34,36 @@ grails.project.dependency.resolution = {
     dependencies {
         // specify dependencies here under either 'build', 'compile', 'runtime', 'test' or 'provided' scopes eg.
 
-        // runtime 'mysql:mysql-connector-java:5.1.20'
+        runtime 'mysql:mysql-connector-java:5.1.20'
     }
 
     plugins {
         runtime ":hibernate:$grailsVersion"
         runtime ":jquery:1.8.0"
         runtime ":resources:1.1.6"
+        //runtime ":resources:1.2.RC2"
 
         // Uncomment these (or add new ones) to enable additional resources capabilities
         //runtime ":zipped-resources:1.0"
         //runtime ":cached-resources:1.0"
         //runtime ":yui-minify-resources:0.1.4"
+        //runtime ":yui-minify-resources:0.1.5"
 
         build ":tomcat:$grailsVersion"
 
-        runtime ":database-migration:1.1"
+        runtime ":database-migration:1.2"
 
-        compile ':cache:1.0.0'
+        //compile ':cache:1.0.0'
+        
+        compile ":spring-security-core:1.2.4"
+        //compile ":spring-security-core:1.2.7.3"
+
+        //compile ":cache-headers:1.1.5"
+        
+        compile ":csv:0.3.1"
+        
+        //runtime ":coffeescript-resources:0.2"
+        //compile ":coffeescript-resources:0.3.2"
+
     }
 }

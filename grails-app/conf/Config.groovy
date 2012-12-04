@@ -89,3 +89,15 @@ log4j = {
            'org.hibernate',
            'net.sf.ehcache.hibernate'
 }
+
+// Added by the Spring Security Core plugin:
+grails.plugins.springsecurity.userLookup.userDomainClassName = 'tvguide.User'
+grails.plugins.springsecurity.userLookup.authorityJoinClassName = 'tvguide.UserRole'
+grails.plugins.springsecurity.authority.className = 'tvguide.Role'
+grails.plugins.springsecurity.successHandler.defaultTargetUrl = '/home/home'
+
+//coffeescript.modules = {
+//    tvShowManage {
+//        //files "src/coffee/tvShowManage"
+//    }
+//}
