@@ -8,7 +8,7 @@ class HomeController {
     
     def index() { }
     
-    @Secured(['IS_AUTHENTICATED_FULLY'])
+    @Secured(['IS_AUTHENTICATED_REMEMBERED'])
     def home() {
         List tvShowsWatched = []
         User.get(springSecurityService.principal.id).watching.each() { tvShowWatcher ->

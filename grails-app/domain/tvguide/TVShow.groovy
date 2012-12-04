@@ -27,6 +27,7 @@ class TVShow {
         directory index: 'directory_idx'
         dateCreated index: 'dateCreated_idx'
         updateFlag index: 'updateFlag'
+        sort:'title'
     }
 
     static constraints = {

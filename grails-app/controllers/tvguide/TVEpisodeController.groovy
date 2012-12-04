@@ -32,9 +32,15 @@ class TVEpisodeController {
                 def importFeed = new XmlSlurper().parse(addressComplete)
                 def episodeList = importFeed.Episodelist
                 //render episodeList
+                
+                Integer countShowFound = 0
+                Integer countShowAdded = 0
+                Integer countShowSkipped = 0
+                Integer countShowUpdated = 0
                 episodeList.Season.each() { season ->
                     //render "S" + season.@no + "-"
                     season.episode.each { episode ->
+                        countShowFound++
                         //render "E" + episode.seasonnum + ","
                         Integer episodeNumber = episode.epnum.text() as int
                         Integer episodeSeason = season.@no.text() as int
@@ -45,24 +51,29 @@ class TVEpisodeController {
                         Boolean episodeIsSpecial = false
                         String episodeTVRage = episode.link
 
-                        def tvEpisode = TVEpisode.findByNumber(episodeNumber)
+                        def tvEpisode = TVEpisode.findByShowAndSeasonAndEpisode(tvShow, episodeSeason, episodeEpisode)
                         if(tvEpisode) { // update it
                             if(tvEpisode.updateFlag == false) {
                                 tvEpisode.updateFlag = true
                                 tvEpisode.save(flush:true)
                                 existingEpisodeList.add(tvEpisode)
+                                countShowUpdated++
                                 //log.error tvShow.updateFlag
                                 //log.error "already exists: " + tokens[1]
                             } else {
-                                //log.error "skipping: " + episodeTitle
+                                countShowSkipped++
+                                log.error "skipping: " + tvShow.title + " " + episodeSeason + "x" + episodeEpisode + " - " + episodeTitle + " on " + episodeAirDate.format("d MMMM, yyyy")
+                                log.error "for: " + tvEpisode.show.title + " " + tvEpisode.season + "x" + tvEpisode.episode + " - " + tvEpisode.title + " on " + tvEpisode.airDate.format("d MMMM, yyyy")
                             }
                         } else { // create new one
                             def tvEpisodeNew = new TVEpisode(show: tvShow, number: episodeNumber, season: episodeSeason, episode: episodeEpisode, productionCode: episodeProductionCode, airDate: episodeAirDate, title: episodeTitle, isSpecial: episodeIsSpecial, tvrage: episodeTVRage, updateFlag: true).save(flush:true, failOnError: true)
                             newEpisodeList.add(tvEpisodeNew)
-                            log.error "added: " + episodeTitle + " on " + episodeAirDate.format("d MMMM, yyyy")
+                            countShowAdded++
+                            log.error "added: " + tvShow.title + " " + episodeSeason + "x" + episodeEpisode + " - " + episodeTitle + " on " + episodeAirDate.format("d MMMM, yyyy")
                         }
                     }
                 }
+                log.error "end show " + tvShow.title + " with F:" + countShowFound + " A:" + countShowAdded + " U:" + countShowUpdated + " S:" + countShowSkipped + " episodes"
             }
         } else {
             render "bad user"
