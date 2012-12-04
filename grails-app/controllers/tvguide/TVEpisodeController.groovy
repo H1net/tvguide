@@ -54,7 +54,7 @@ class TVEpisodeController {
                                 //log.error tvShow.updateFlag
                                 //log.error "already exists: " + tokens[1]
                             } else {
-                                log.error "skipping: " + episodeTitle
+                                //log.error "skipping: " + episodeTitle
                             }
                         } else { // create new one
                             def tvEpisodeNew = new TVEpisode(show: tvShow, number: episodeNumber, season: episodeSeason, episode: episodeEpisode, productionCode: episodeProductionCode, airDate: episodeAirDate, title: episodeTitle, isSpecial: episodeIsSpecial, tvrage: episodeTVRage, updateFlag: true).save(flush:true, failOnError: true)
